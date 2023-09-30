@@ -11,9 +11,9 @@ In no chronological order, below are my top publications together with a brief s
 
 ## Thermoelectrics
 
-Deepak Venkateshvaran *et al.*, **Nature** 515, 384–388 (2014) - * A demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
+Deepak Venkateshvaran *et al.*, **Nature** 515, 384–388 (2014) - *A demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
 
-Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) - * A demonstration of voltage modulated thermoelectric effects in a polymer transistor device*  
+Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) - *A demonstration of voltage modulated thermoelectric effects in a polymer transistor device*  
 
 Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) - *Pioneering demonstration of ambipolar thermoelectric coefficients in a polymer transistor device*  
  
