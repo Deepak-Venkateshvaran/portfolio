@@ -81,13 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Deepak Venkateshvaran"
-  avatar           : "Deepak.jpg"
-  bio              : "Royal Society University Research Fellow and Director of Studies in Physics at the University of Cambridge"
+  avatar           : "images/Deepak.jpg"
+  bio              : "Royal Society University Research Fellow and Director of Studies in Physics"
   location         : "Cambridge, United Kingdom"
   employer         : "University of Cambridge"
   googlescholar    : "https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en"
-  email            : "dv246@cam.ac.uk"
-  
+  email            : "dv246@cam.ac.uk" 
   instagram        : "dvenkateshvaran"
   linkedin         : "deepak-venkateshvaran"
   
