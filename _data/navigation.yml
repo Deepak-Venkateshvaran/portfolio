@@ -10,8 +10,8 @@ main:
   - title: "Music"
     url: "https://www.youtube.com/@FingersHQ"
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Papers"
+    url: /papers/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
