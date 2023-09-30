@@ -21,7 +21,7 @@ Katharina Broch, Deepak Venkateshvaran *et al.*, Advanced Electronic Materials 3
 
 Shu-Jen Wang, Deepak Venkateshvaran *et al.*, Nature Electronics 2, 98-107 (2019) - *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
 
-Deepak Venkateshvaran *et al.*, Physical Review B 79, 134405 (2009) - *Discovery of a universal scaling behaviour in the Anomalous Hall effect in magnetic oxides*  
+Deepak Venkateshvaran *et al.*, Physical Review B 78, 092405 (2008) - *Discovery of a universal scaling behaviour in the Anomalous Hall effect in magnetic oxides*  
 
 ## Nanomechanics
 
