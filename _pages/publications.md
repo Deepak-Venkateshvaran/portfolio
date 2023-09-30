@@ -11,15 +11,18 @@ My [Google Scholar] (https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl
 
 **Thermoelectrics**  
 Deepak Venkateshvaran *et al.*, Nature 515, 384–388 (2014)  
+  *Demonstration of how thermoelectrics can be used to quantify disorder in organic polymers*
 Deepak Venkateshvaran *et al.*, APL Materials 2, 032102 (2014)  
-Katharina Broch, Deepak Venkateshvaran* *et al.*, Advanced Electronic Materials 3, 1700225 (2017)
+  *Demonstration voltage modulated thermoelectrics in a polymer transistor device*
+Katharina Broch, Deepak Venkateshvaran* *et al.*, Advanced Electronic Materials 3, 1700225 (2017)  
+  *Demonstration of ambipolar thermoelectric coefficients in a polymer transistor*
 
 **Spintronics**  
 Shu-Jen Wang, Deepak Venkateshvaran* *et al.*, Nature Electronics 2, 98-107 (2019)  
 Deepak Venkateshvaran *et al.*, Physical Review B 79, 134405 (2009)
 
 **Nanomechanics**  
-Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran* **, Nature Communications 13, 3076 (2022)  
-Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran* **, Advanced Electronic Materials 8, 2101019 (2022)
+Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran*, Nature Communications 13, 3076 (2022)  
+Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran*, Advanced Electronic Materials 8, 2101019 (2022)
 
 *corresponding author
