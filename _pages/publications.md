@@ -8,8 +8,6 @@ I have worked primarily in three research areas of experimental physics over my 
 Thermoelectrics, Spintronics, and Nanomechanics.  
 Below are my top publications in these areas together with a brief summary of what we achieved in them.
 
-My [Google Scholar] (https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
-
 ## Thermoelectrics
 *Demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
 Deepak Venkateshvaran *et al.*, Nature 515, 384–388 (2014)  
@@ -36,3 +34,5 @@ Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran*, Nature Communicati
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran*, Advanced Electronic Materials 8, 2101019 (2022)
 
 *corresponding author
+
+My [Google Scholar] (https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
