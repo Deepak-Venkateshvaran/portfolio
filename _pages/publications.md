@@ -19,7 +19,7 @@ Shu-Jen Wang, Deepak Venkateshvaran* *et al.*, Nature Electronics 2, 98-107 (201
 Deepak Venkateshvaran *et al.*, Physical Review B 79, 134405 (2009)
 
 **Nanomechanics**  
-Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran*, Nature Communications 13, 3076 (2022)  
-Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran*, Advanced Electronic Materials 8, 2101019 (2022)
+Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran* **, Nature Communications 13, 3076 (2022)  
+Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran* **, Advanced Electronic Materials 8, 2101019 (2022)
 
 *corresponding author
