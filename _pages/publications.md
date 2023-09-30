@@ -24,6 +24,7 @@ Shu-Jen Wang, Deepak Venkateshvaran *et al.*, Nature Electronics 2, 98-107 (2019
 Deepak Venkateshvaran *et al.*, Physical Review B 79, 134405 (2009) - *Discovery of a universal scaling behaviour in the Anomalous Hall effect in magnetic oxides*  
 
 ## Nanomechanics
+
 Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, Nature Communications 13, 3076 (2022) - *Demonstration of ultrahigh contrast nanomechanics in an organic polymer film*   
 
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, Advanced Electronic Materials 8, 2101019 (2022) - *Measurements of nanoscale stiffness mapping in polycrystalline polymer films*  
