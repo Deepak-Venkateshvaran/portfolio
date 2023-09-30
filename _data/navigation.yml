@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: "https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en"
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
   - title: "Music"
     url: "https://www.youtube.com/@FingersHQ"
