@@ -6,7 +6,7 @@ author_profile: true
 ---
 I have worked primarily in three research areas of experimental physics over my career till date;  
 Thermoelectrics, Spintronics, and Nanomechanics.  
-Below are my top publications in these areas together with a brief summary of what we achieved in them.
+Below are my top publications together with a brief summary of what we achieved in them. 
 
 ## Thermoelectrics
 
@@ -24,10 +24,9 @@ Shu-Jen Wang, Deepak Venkateshvaran* *et al.*, Nature Electronics 2, 98-107 (201
 Deepak Venkateshvaran *et al.*, Physical Review B 79, 134405 (2009) - *Discovery of a universal scaling behaviour in the Anomalous Hall effect in magnetic oxides*  
 
 ## Nanomechanics
-Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran*, Nature Communications 13, 3076 (2022) - *Demonstration of ultrahigh contrast nanomechanics in an organic polymer film*   
+Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, Nature Communications 13, 3076 (2022) - *Demonstration of ultrahigh contrast nanomechanics in an organic polymer film*   
 
-Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran*, Advanced Electronic Materials 8, 2101019 (2022) - *Measurements of nanoscale stiffness mapping in polycrystalline polymer films*  
+Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, Advanced Electronic Materials 8, 2101019 (2022) - *Measurements of nanoscale stiffness mapping in polycrystalline polymer films*  
 
-*corresponding author
 
 My Google scholar profile documents my complete list of publications.
