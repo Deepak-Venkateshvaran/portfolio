@@ -14,12 +14,12 @@ Deepak Venkateshvaran *et al.*, Nature 515, 384–388 (2014) - *Demonstration of
 
 Deepak Venkateshvaran *et al.*, APL Materials 2, 032102 (2014) - *Demonstration of voltage modulated thermoelectric effects in a polymer transistor device*  
 
-Katharina Broch, Deepak Venkateshvaran* *et al.*, Advanced Electronic Materials 3, 1700225 (2017) - *Demonstration of ambipolar thermoelectric coefficients in a polymer transistor device*  
+Katharina Broch, Deepak Venkateshvaran *et al.*, Advanced Electronic Materials 3, 1700225 (2017) - *Demonstration of ambipolar thermoelectric coefficients in a polymer transistor device*  
  
 
 ## Spintronics 
 
-Shu-Jen Wang, Deepak Venkateshvaran* *et al.*, Nature Electronics 2, 98-107 (2019) - *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
+Shu-Jen Wang, Deepak Venkateshvaran *et al.*, Nature Electronics 2, 98-107 (2019) - *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
 
 Deepak Venkateshvaran *et al.*, Physical Review B 79, 134405 (2009) - *Discovery of a universal scaling behaviour in the Anomalous Hall effect in magnetic oxides*  
 
