@@ -6,7 +6,8 @@ author_profile: true
 ---
 I have worked primarily in three research areas of experimental physics over my career till date;  
 Thermoelectrics, Spintronics, and Nanomechanics.  
-Below are my top publications in these areas together with a brief summary of what we achieved. 
+Below are my top publications in these areas together with a brief summary of what we achieved in them.  
+My [Google Scholar] (https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
 **Thermoelectrics**  
 Deepak Venkateshvaran *et al.*, Nature 515, 384–388 (2014)  
