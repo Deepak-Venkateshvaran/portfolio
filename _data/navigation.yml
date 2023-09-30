@@ -5,13 +5,10 @@ main:
     url: /files/Deepak_Venkateshvaran_Short_CV_2023.pdf
     
   - title: "Publications"
-    url: "https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en"
+    url: /publications/
 
   - title: "Music"
     url: "https://www.youtube.com/@FingersHQ"
-
-  - title: "Papers"
-    url: /papers/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
