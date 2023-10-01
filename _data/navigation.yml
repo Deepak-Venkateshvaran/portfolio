@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /research/   
+
   - title: "Music"
     url: /music/
-
-#  - title: "Teaching"
-#    url: /teaching/    
     
 #  - title: "Music"
 #    url: "https://www.youtube.com/@FingersHQ" 
