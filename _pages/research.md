@@ -11,7 +11,7 @@ I run my research program jointly with collaborators in Stockholm, Sweden, namel
 
 Others that I continue working with on funded projects include [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/), [Prof Pablo Padilla](https://mym.iimas.unam.mx/pablo/index.html), Mr Alberto Alcalá Alvarez and Mr Mateo Tonatiuh Rodríguez Cervantes.
 
-To paraphrase my late mentor [Prof B. S. Chandrashekar](https://artsci.case.edu/artsci-update-archive/b-s-chandrasekhar-former-dean-of-the-college-passes-away-at-93/), "As in life, so in academic career... people will come and go. Irrespective of their age, or their education, they will all leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from all who cross your road. Strict adherance to hierarchy can limit your overall learning, and your personal growth."
+To paraphrase my late mentor [Prof B. S. Chandrashekar](https://artsci.case.edu/artsci-update-archive/b-s-chandrasekhar-former-dean-of-the-college-passes-away-at-93/), "As in life, so in academic career... people will come and go. Irrespective of their age, or their education, they will all leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from all who cross your road."
 
-I very much respect these words, and choose to run a research enterprise where responsibilty is shared, and where everyone is respected for their own individuality.
+I very much live by these words.
 
