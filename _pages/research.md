@@ -13,5 +13,5 @@ Others that I continue working with on funded projects include [Prof Pablo Padil
 
 While it has become customary for research group leaders to document a list of members of their team on their websites, I harbour a slightly different philosophy on this issue, and it is one I've adopted from my late mentor [Prof B. S. Chandrashekar](https://artsci.case.edu/artsci-update-archive/b-s-chandrasekhar-former-dean-of-the-college-passes-away-at-93/). 
 
-To paraphrase Prof B. S. Chandra's words, "As in life, so in career... people will come and go. Irrespective of their age, or their education, they will leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from everyone that crosses your road. Strict adherance to hierarchy can impose a limit on your learning."
+To paraphrase Prof B. S. Chandra's words, "As in life, so in academic career... people will come and go. Irrespective of their age, or their education, they will all leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from everyone that crosses your road. Strict adherance to hierarchy can impose a limit on your overall learning and your personal growth."
 
