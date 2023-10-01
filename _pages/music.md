@@ -11,4 +11,4 @@ In 2021, Hidé Takemoto and I started a music-art project called "Fingers HQ". T
 Few examples of our Fingers HQ project are at this [link](https://www.youtube.com/@FingersHQ).  
 
 
-![Fingers HQ](/portfolio/images/guitar-tabla.jpg | width=100)
+![Fingers HQ](/portfolio/images/guitar-tabla.jpg | width=10)
