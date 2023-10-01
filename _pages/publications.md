@@ -31,4 +31,4 @@ Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communicat
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) - *Measurements of nanoscale stiffness mapping in polycrystalline polymer films*  
 
 
-My Google scholar profile documents my complete list of publications.
+My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
