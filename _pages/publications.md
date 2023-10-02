@@ -37,6 +37,6 @@ Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communicat
 *World's first demonstration of ultrahigh contrast nanomechanics in an organic polymer film*  
 
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022)  
-*Measurements of nanoscale stiffness mapping in polycrystalline polymer films*  
+*Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
