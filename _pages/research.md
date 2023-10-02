@@ -5,15 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
-My current research interests are two fold. First, I study the physics of soft organic and molecular materials for energy applications. Second, I develop and implement novel force-mapping techniques on the nanoscale for ambient high-resolution molecular imaging and for nanoscale mechanics.
+My current research interests are two fold. First, I study the physics of soft organic and molecular materials for thermal and mechanical energy harvesting applications. Second, I implement novel force-mapping techniques on the nanoscale for ambient high-resolution molecular imaging and for nanoscale mechanics.  
 
 
 **Research Consortium**  
-I run my research program jointly with collaborators in Stockholm, Sweden, namely [Prof Per Claesson](https://www.kth.se/profile/percl), [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden) and Dr Ki-Hwan Hwang, and through an academia-industry partnership with [Dr Vladimir Korolkov](https://uk.linkedin.com/in/vladimir-korolkov-26125452) at [Park Systems](https://www.parksystems.com/). Within Cambridge, I work closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter.
+I run my research program jointly with collaborators in Stockholm, Sweden, namely [Prof Per Claesson](https://www.kth.se/profile/percl), [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden) and Dr Ki-Hwan Hwang, and through an academia-industry partnership with [Dr Vladimir Korolkov](https://uk.linkedin.com/in/vladimir-korolkov-26125452) at [Park Systems](https://www.parksystems.com/). Within Cambridge, I work closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter. This work is funded though research grants I hold from the Royal Society.
 
-Others that I continue working with on funded projects include [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/), [Prof Pablo Padilla](https://mym.iimas.unam.mx/pablo/index.html), Mr Alberto Alcalá Alvarez and Mr Mateo Tonatiuh Rodríguez Cervantes.
+In 2024, I will initiate a new program on molecular thermoelectrics with [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/) at the ULB in Belgium, funded through a Wiener Anspach Foundation research grant.
 
-To paraphrase my late mentor [Prof B. S. Chandrashekar](https://artsci.case.edu/artsci-update-archive/b-s-chandrasekhar-former-dean-of-the-college-passes-away-at-93/), "As in life, so in academic career... people will come and go. Irrespective of their age, or their education, they will all leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from all who cross your road."
+A small part of my research program is completely blue skies. One example of this is to treat nanoscale topography information topologically, and apply novel tools such as Topological Data Analysis to evaluate atomic force microscopy images. This work is funded in part by the Royal Society and in part though UNAM in Mexico. It is conducted together with [Prof Pablo Padilla](https://mym.iimas.unam.mx/pablo/index.html), Mr Alberto Alcalá Alvarez and Mr Mateo Tonatiuh Rodríguez Cervantes.
+
+On the topic of people and teams, I paraphrase my late mentor [Prof B. S. Chandrashekar](https://artsci.case.edu/artsci-update-archive/b-s-chandrasekhar-former-dean-of-the-college-passes-away-at-93/), "As in life, so in academic career... people will come and go. Irrespective of their age, or their education level, they will all leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from all who cross your road."
 
 I very much live by these words.
 
