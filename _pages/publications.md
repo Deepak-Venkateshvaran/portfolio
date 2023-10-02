@@ -11,18 +11,18 @@ In no chronological order, below are my top publications together with a brief s
 
 ## Thermoelectrics
 
-Deepak Venkateshvaran *et al.*, **Nature** 515, 384–388 (2014) - *A demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
+Deepak Venkateshvaran *et al.*, **Nature** 515, 384–388 (2014) - *World's first demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
 
-Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) - *A demonstration of voltage modulated thermoelectric effects in a polymer transistor device*  
+Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) - *Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
 
-Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) - *Pioneering demonstration of ambipolar thermoelectric coefficients in a polymer transistor device*  
+Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) - *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
  
 
 ## Spintronics 
 
 Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98-107 (2019) - *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
 
-Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008) - *Discovery of a universal scaling behaviour in the Anomalous Hall effect in magnetic oxides*  
+Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008) - *Discovery of a universal scaling behaviour in the anomalous Hall effect in magnetic oxides*  
 
 ## Nanomechanics
 
