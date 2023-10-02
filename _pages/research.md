@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current research interests broadly span the physics of soft organic and molecular materials for energy applications, and the development of novel nanoscale imaging techniques for ambient high-resolution nanoscopy and nanoscale mechanics.
+My current research interests are two fold. First, I study the physics of soft organic and molecular materials for energy applications. Second, I development and implement novel force-mapping techniques on the nanoscale for ambient high-resolution molecular imaging and for nanoscale mechanics.
 
 
 **Research Consortium**  
