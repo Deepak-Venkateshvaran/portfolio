@@ -9,7 +9,7 @@ My current research interests are two fold. First, I study the physics of soft o
 
 
 **Research Consortium**  
-I run my research program jointly with collaborators in Stockholm, Sweden, namely [Prof Per Claesson](https://www.kth.se/profile/percl), [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden) and Dr Ki-Hwan Hwang, and through an academia-industry partnership with [Dr Vladimir Korolkov](https://uk.linkedin.com/in/vladimir-korolkov-26125452) at [Park Systems](https://www.parksystems.com/). Within Cambridge, I work closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter. This work is funded though research grants I hold from the Royal Society.
+I run my research program jointly with collaborators in Stockholm, Sweden, namely [Prof Per Claesson](https://www.kth.se/profile/percl), [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden) and Dr Ki-Hwan Hwang, and through an academia-industry partnership with [Dr Vladimir Korolkov](https://uk.linkedin.com/in/vladimir-korolkov-26125452) at [Park Systems](https://www.parksystems.com/). Within Cambridge, I collaborate closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter. This work is funded though research grants I hold from the Royal Society.
 
 In 2024, I will initiate a new program on molecular thermoelectrics with [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/) at the ULB in Belgium, funded through a Wiener Anspach Foundation research grant.
 
