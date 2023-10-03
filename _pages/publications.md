@@ -41,4 +41,4 @@ Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electron
 
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
-<img src="https://github.com/Deepak-Venkateshvaran/portfolio/images/nature-screenshot.png" width="100">
+![image](/portfolio/images/nature-screenshot.png)
