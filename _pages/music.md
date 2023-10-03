@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/Z7B0087.jpg">
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/Z7B0087.png">
 
 I have played the Indian *tabla* for several decades, and routinely perform with well known world musicians like [Hibiki Ichikawa](https://hibikishamisen.com/), [Catherine Groom](https://www.mus.cam.ac.uk/directory/catherine-groom) and [Hidé Takemoto](https://www.hideguitar.com/). 
 
