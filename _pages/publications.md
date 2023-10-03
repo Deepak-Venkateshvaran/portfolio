@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="200" style="padding:1px;border:thin solid black;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-screenshot.png" width="198"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="199"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/APL-materials-screenshot.png" width="203">
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="200" style="padding:1px;border:thin solid black;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-screenshot.png" width="198"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="199"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="203">
 
 I have worked primarily in three research areas of experimental physics over my career till date;  
 Thermoelectrics, Spintronics, and Nanomechanics.  
