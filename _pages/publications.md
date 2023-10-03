@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="200"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-screenshot.png" width="198"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="199"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/APL-materials-screenshot.png" width="203">
+
 I have worked primarily in three research areas of experimental physics over my career till date;  
 Thermoelectrics, Spintronics, and Nanomechanics.  
 
@@ -40,6 +43,3 @@ Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electron
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
-
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="200"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-screenshot.png" width="198"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="199"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/APL-materials-screenshot.png" width="203">
-
