@@ -5,7 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/1P9A4270.jpg" width="250" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 30px;">               
+<figure>
+  <img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/1P9A4270.jpg" width="250" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 0px;"> 
+  <figcaption> Nano Scientific Forum Europe 2023 </figcaption>
+</figure>
 
 The following is a list of invited and plenary talks delivered since January 2021; the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on the themes of organic electronics, thermoelectrics and nanomechanics.
 
