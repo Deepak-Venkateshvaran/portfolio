@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/CEB-AFM-lab-2023.png" width="300" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
+<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/CEB-AFM-lab-2023.png" width="350" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
 My current research interests are two fold. First, I study the physics of soft organic and molecular materials for thermal and mechanical energy harvesting applications. Second, I implement novel force-mapping techniques on the nanoscale for ambient high-resolution molecular imaging and for nanoscale mechanics.  
 
