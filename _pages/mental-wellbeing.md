@@ -11,7 +11,7 @@ When young, we have little ability to influence our way of thinking. As a grown 
 
 There comes a point when life's experience throws a spanner in the works, forcing us to question our ways. These catalytic moments often stem from the most difficult times in our lives. It could be the death of a loved one, a relationship breakup, sudden illness, the loss of an opportunity we deeply craved for, or others of similar gravity. On occasion, it may even be inspired by envy. Such moments force us to question what works for our life, and what doesn't. Are we indeed getting the most out of our time on the planet, or are we just engaging in a tick box exercise to please the anonymous faces of our societies. 
 
-Beyond just questioning, these tough moments have the energy to inspire resilience, change, and growth. They motivate us to re-invent, to arise, and to become the best versions of ourselves. They inspire us to understand that voice in our heads. They convince us that the biggest battles we wage are the ones we fight with our preconditioned ourselves.
+Beyond just questioning, these tough moments have the energy to inspire resilience, change, and growth. They motivate us to re-invent, to arise, and to become the best versions of ourselves. They inspire us to understand that voice in our heads. They convince us that the biggest battles we wage are the ones we fight with our preconditioned selves.
 
 With conscious effort, concerted action, and the passage of time, we begin to live with intent. We live with compassion for ourselves. We share love with all whom we come in contact with. We heal.
 
@@ -22,5 +22,3 @@ Here are five books that helped me on my own personal growth journey. They helpe
 3. [Waking the Tiger](https://www.waterstones.com/book/waking-the-tiger-healing-trauma/peter-a-levine/ann-frederick/9781556432330) - Peter Levine
 4. [Surrounded by Idiots: The Four Types of Human Behaviour](https://www.surroundedbyidiots.com/en/books/surrounded-by-idiots/) - Thomas Erikson
 5. [When the Body Says No: The Cost of Hidden Stress](https://drgabormate.com/book/when-the-body-says-no/) - Gabor Maté
-
-I continue to be work in progress, for anything built for the long haul is built on continuous hardwork and recurring effort.
