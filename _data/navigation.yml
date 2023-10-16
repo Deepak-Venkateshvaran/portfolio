@@ -18,6 +18,9 @@ main:
 
   - title: "Music"
     url: /music/
+
+    - title: "Mental Wellbeing"
+    url: /mental-wellbeing/
     
 #  - title: "Music"
 #    url: "https://www.youtube.com/@FingersHQ" 
