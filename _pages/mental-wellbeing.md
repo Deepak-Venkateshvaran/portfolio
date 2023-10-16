@@ -5,7 +5,7 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
-We are products of social programming. Our social circles subtly or openly dictate what is expected of us, and what constitutes right and wrong. We please with the intent to conform, for conformation offers us community. 
+We are products of social programming. Our social circles subtly or openly dictate what is expected of us, and what constitutes right and wrong. We please with the intent to conform, for such conformation offers us community. 
 
 When young, we have little ability to influence our way of thinking. As a grown up, we believe the way we think and organise ourselves constitutes our personality. All through, life subjects us to trauma in ways we never comprehend. Left unchecked and unchallenged, we continue living on autopilot for decades.
 
