@@ -17,7 +17,7 @@ With conscious effort, concerted action, and gracious time, our challenges help 
 
 Here are five books that helped me on my own personal growth journey. They helped me walk away from life's depths of darkness, despair, and moral preconditioning, to a place of gratitude, peace and inner contentment. 
 
-1. [Authentic Happiness](https://www.waterstones.com/book/authentic-happiness/martin-seligman/9781857886771) - Martin E. P. Seligman
+1. [Authentic Happiness](https://www.waterstones.com/book/authentic-happiness/martin-seligman/9781857886771) - Martin Seligman
 2. [Love Yourself Like Your Life Depends on It](https://kamal.blog/book/) - Kamal Ravikant
 3. [Waking the Tiger](https://www.waterstones.com/book/waking-the-tiger-healing-trauma/peter-a-levine/ann-frederick/9781556432330) - Peter Levine
 4. [Surrounded by Idiots: The Four Types of Human Behaviour](https://www.surroundedbyidiots.com/en/books/surrounded-by-idiots/) - Thomas Erikson
