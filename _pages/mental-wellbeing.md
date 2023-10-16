@@ -7,7 +7,7 @@ author_profile: true
 
 We are products of social programming. Our social circles subtly or openly dictate what is expected of us, and what constitutes right and wrong. We please with the intent to conform, for conformity offers us community. 
 
-When young, we have little ability to influence our way of thinking. As a grown up, we believe the way we think and organise ourselves constitutes our personality. All through, life subjects us to trauma in ways we never comprehend. Left unchecked and unchallenged, we continue living on autopilot for decades.
+When young, we have little ability to influence our way of thinking. As a grown up, we believe the way we think and organise ourselves constitutes our personality. The ghost of our trauma remains invisible, and we continue living on autopilot for decades. 
 
 There comes a point when life's experience throws a spanner in the works, forcing us to question our ways. These catalytic moments often stem from the most difficult times in our lives. It could be the death of a loved one, a relationship breakup, sudden illness, the loss of an opportunity we deeply craved for, or others of similar gravity. On occasion, it may even be inspired by envy. Such moments force us to question what works for our life, and what doesn't. Are we indeed getting the most out of our time on the planet, or are we just engaging in a tick box exercise to please the anonymous faces of our societies. 
 
