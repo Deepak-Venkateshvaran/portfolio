@@ -11,9 +11,9 @@ When young, we have little ability to influence our way of thinking. As a grown 
 
 There comes a point when a spanner is thrown in the works, forcing us to question our ways. These catalytic moments stem from the most difficult times in our lives. They could be the death of a loved one, a relationship breakup, sudden illness, the loss of an opportunity we deeply craved for, or others of similar gravity. On occasion, they may even be inspired by envy. Such moments force us to question what works for our life, and what doesn't. Are we indeed getting the most out of our short time on the planet, or are we only engaging in a tick box exercise to please the anonymous faces of our societies. 
 
-Tough moments have the energy to inspire resilience, institute change, and foster growth. They motivate us to re-invent, to arise, and to become the best versions of ourselves. They inspire us to observe that voice in our heads and appreciate the sentiment that the biggest battles we wage are the ones we fight with our preconditioned selves.
+Tough moments have the energy to inspire resilience, institute change, and foster growth. They motivate us to re-invent, to arise, and to become the best versions of ourselves. They inspire us to observe that voice in our heads, and appreciate the sentiment that the biggest battles we wage are the ones we fight with our preconditioned selves.
 
-The personal development that comes from healing our emotional wounds helps us live our futures with intent. It helps us live with compassion for ourselves. It helps us share love without condition.
+The personal development that comes from healing our emotional wounds, and from rectifying our pre-programmed habits, helps us live our futures with intent. It helps us live with compassion for ourselves. It helps us share love without condition.
 
 Here are five books that helped me on my own personal growth journey. They helped me walk away from life's depths of darkness, despair, and moral preconditioning, to a place of gratitude, peace and inner contentment. 
 
