@@ -10,7 +10,7 @@ author_profile: true
 I have worked primarily in three research areas of experimental physics over my career till date;  
 Thermoelectrics, Spintronics, and Nanomechanics.  In no chronological order, below are my top publications in these areas, together with a brief summary of what was achieved. 
 
-These are the papers in which I played a major role, i.e., architecting the story, doing the experiments, writing the papers, and more recently, co-ordinating with publishing editors. This list does not contain papers in which I was co-author for minimal involvement. My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
+These are the papers in which I played a major role, i.e., architecting the story, doing the experiments, writing the papers, and more recently, co-ordinating with publishing editors. This list does not contain papers in which I was co-author for minor involvement. My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
 
 ## Thermoelectrics
