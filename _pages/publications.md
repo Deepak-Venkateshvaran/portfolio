@@ -8,9 +8,9 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="200" height="260"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="200" height="259"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="200" height="260"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="200" height="260">
 
 I have worked primarily in three research areas of experimental physics over my career till date;  
-Thermoelectrics, Spintronics, and Nanomechanics.  
+Thermoelectrics, Spintronics, and Nanomechanics.  In no chronological order, below are my top publications in these areas, together with a brief summary of what was achieved. 
 
-In no chronological order, below are my top publications together with a brief summary of what we achieved in them. 
+These are the papers in which I played a major role, i.e., architecting the story, doing the experiments, writing the papers, and more recently, co-ordinating with publishing editors. This list does not contain papers in which I was co-author for minimal involvement. My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
 
 ## Thermoelectrics
@@ -41,5 +41,3 @@ Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communicat
 
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
-
-My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
