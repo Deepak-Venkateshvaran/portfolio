@@ -40,7 +40,7 @@ Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008)
 *Discovery of a universal scaling behaviour in the anomalous Hall effect in magnetic oxides*  
 
 Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009)  
-*A broad-spectrum study of the magnetic properties in oxide thin films and how they can be tailored*  
+*A comprehensive study of the magnetic properties in oxide thin films and how they can be tailored*  
 
 Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98-107 (2019)  
 *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
