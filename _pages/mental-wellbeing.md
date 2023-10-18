@@ -15,7 +15,7 @@ Tough moments have the energy to inspire resilience, institute change, and foste
 
 The personal development that comes from healing our emotional wounds, and from rectifying our pre-programmed habits, helps us live our futures with intent. It helps us live with compassion for ourselves. It helps us share love without condition.
 
-Here are five books that helped me on my own personal growth journey. They helped me walk away from life's depths of darkness, despair, and moral preconditioning, to a place of gratitude, peace and inner contentment. 
+Here are five books that helped me on my own personal growth journey. They helped me walk away from life's depths of darkness, despair, and moral preconditioning, towards a place of gratitude, peace and inner contentment. 
 
 1. [Authentic Happiness](https://www.waterstones.com/book/authentic-happiness/martin-seligman/9781857886771) - Martin Seligman
 2. [Love Yourself Like Your Life Depends on It](https://kamal.blog/book/) - Kamal Ravikant
