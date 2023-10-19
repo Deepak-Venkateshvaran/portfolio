@@ -30,7 +30,7 @@ Chris N. Warwick, Deepak Venkateshvaran *et al.*, **APL Materials** 3, 096104 (2
 Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
-Georg Ulrich, Emanuel Pfitzner, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347–4354 (2020)  
+Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347–4354 (2020)  
 *Electrical detection of fast heat transport through molecular films under vibrational resonance*
  
 
