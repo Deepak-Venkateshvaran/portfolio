@@ -14,4 +14,4 @@ In 2021, Hidé Takemoto and I started a music-art project called "Fingers HQ". T
 Few examples of our Fingers HQ project are at this [link](https://www.youtube.com/@FingersHQ).
 
 
-<object data="https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202022-23.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202022-23.pdf#page=27" width="1000" height="700" type='application/pdf'></object>
