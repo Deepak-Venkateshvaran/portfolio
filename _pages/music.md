@@ -14,9 +14,9 @@ In 2021, Hidé Takemoto and I started a music-art project called "Fingers HQ". T
 Few examples of our Fingers HQ project are at this [link](https://www.youtube.com/@FingersHQ).
 
 
-##Tabla and Physics
+## Tabla and Physics
 
-The unique construction of the *tabla* and the vibrational properties of its loaded membrane has very important consequences for microscale device physics. It offers a unique solution to a long-standing problem in polymer-based micromechanical systems, where the quality of resonance is known to be low. Together with my colleague, [Mr Matthew Smith](https://www.sel.cam.ac.uk/people/mr-matthew-smith), we highlight this problem and our solution. Our article can be read on [page 52](https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202022-23.pdf#page=27) of the Selwyn College Calendar 2022-2023. 
+The unique construction of the *tabla* and the vibrational properties of its loaded membrane have important consequences for microscale device physics. They offer a unique solution to a long-standing problem in polymer-based micromechanical systems, where the quality of resonance of a vibrating microscale polymer membrane is known to be low. Together with my colleague, [Mr Matthew Smith](https://www.sel.cam.ac.uk/people/mr-matthew-smith), we highlight this problem and our solution inspired by the  *tabla*. Our article can be read on [page 52](https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202022-23.pdf#page=27) of the Selwyn College Calendar 2022-2023. 
 
 
 <object data="https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202022-23.pdf#page=27" width="1000" height="768" type='application/pdf'></object>
