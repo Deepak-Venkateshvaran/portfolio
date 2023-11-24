@@ -12,7 +12,7 @@ The following is a list of invited and plenary talks delivered since January 202
 
 Invited Seminar at the MRS Spring Meeting (*to be delivered jointly with Dr L. J. Spalek*) <br /> Seattle, Washington, USA, April 2024 <br /> Invitation from Dr Ulrike Kraft
 
-Invited Seminar at the MRS Fall Meeting (*to be delivered jointly with Dr L. J. Spalek*) <br /> Boston, USA, December 2023<br /> Invitation from Prof Dhandapani Venkataraman
+Invited Seminar at the MRS Fall Meeting <br /> Boston, USA, December 2023<br /> Invitation from Prof Dhandapani Venkataraman
 
 Plenary Talk at the Nano Scientific Forum Europe (NSFE) <br /> Barcelona, Spain, September 2023 <br /> Invitation from Dr Vladimir Korolkov
 
