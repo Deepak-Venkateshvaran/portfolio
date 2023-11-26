@@ -9,6 +9,6 @@ author_profile: true
 
 1.  Together with Dr Ibrahim Dar, I will be teaching a course on Energy Harvesting within the [MPhil Programme in Micro- & Nanotechnology Enterprise](https://www.msm.cam.ac.uk/pg-study/mphil-programme-micro-nanotechnology-enterprise) (course code NE.10). My lectures will focus on thermal energy harvesting. Our global roadmap for energy harvesting materials was published by the Institute of Physics in 2023, and can be accessed [here](https://iopscience.iop.org/article/10.1088/2515-7639/acc550).
 
-2.  Jointly with Prof Akshay Rao, I will teach part of the course on Materials, Electronics & Renewable Energy (course code IDP3). This is a Part III Physics lecture course at the Cavendish Laboratory of Cambridge University. My lectures will focus on fuel cells and hydrogen as an energy source.
+2.  Jointly with Prof Akshay Rao, I will teach the course on Materials, Electronics & Renewable Energy (course code IDP3). This is a Part III Physics lecture course at the Cavendish Laboratory of Cambridge University. My lectures will focus on fuel cells and hydrogen as an energy source.
 
 3.  I am the Director of Studies in Physics at Selwyn College Cambridge with responsibilities for students doing the Part 1B (second year), Part II (third year), and Part III (fourth year/masters level) in Physics.
