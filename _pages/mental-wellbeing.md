@@ -25,7 +25,7 @@ Here are five books that helped me on my own personal growth journey. They helpe
 
 The bottom line:  
 Be kind, both to yourself, and to others.  
-Love unconditionally.
+Love unconditionally.  
 Be grateful for the cards handed to you in life. No one has them all good. No one has them all bad.  
 Bless those that treat you with indifference. They help you grow.  
 Comparison steals your joy. Focus on yourself.  
