@@ -23,9 +23,9 @@ Here are five books that helped me on my own personal growth journey. They helpe
 4. [Surrounded by Idiots: The Four Types of Human Behaviour](https://www.surroundedbyidiots.com/en/books/surrounded-by-idiots/) - Thomas Erikson
 5. [When the Body Says No: The Cost of Hidden Stress](https://drgabormate.com/book/when-the-body-says-no/) - Gabor Maté
 
-The bottom line?  
+The bottom line:  
 Be kind, both to yourself, and to others.  
-Love without condition.  
+Love unconditionally.
 Be grateful for the cards handed to you in life. No one has them all good. No one has them all bad.  
 Bless those that treat you with indifference. They help you grow.  
 Comparison steals your joy. Focus on yourself.  
