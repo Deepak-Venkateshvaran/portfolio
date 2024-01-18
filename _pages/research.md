@@ -11,7 +11,7 @@ My research interests focus on the interplay between electronics, thermoelectric
 
 We measure fundamental quantities that characterise the motion of charge carriers in organic semiconducting materials. These are quantitites such as how conductive the materials are (i.e., conductivity), how mobile the charge carriers in them tend to be (i.e., mobility), and how well the materials convert temperature differences into voltages (i.e., Seebeck coefficient). We also implement new force-mapping techniques on the nanoscale for high-resolution measurements of mechanics to quantify material properties such as stiffness and modulus (i.e., elasticity) on the nanoscale.  
 
-Our goal is to build a framework of understanding, based on experiment, of how the properties of mobility, conductivity, Seebeck coefficient and elasticity are interlinked within organic semiconductors. Our proposed framework is summarised in the schematic diagram below. Overall, our research contributes to deeper understanding of the physics of multi-functional organic materials.  
+Our goal is to build a framework of understanding, based on experiment, on how the properties of mobility, conductivity, Seebeck coefficient and elasticity are interlinked within organic semiconductors. Our proposed framework is summarised in the schematic diagram below. Overall, our research contributes to deeper understanding of the physics of multi-functional organic materials.  
 
 Our work has significant impact on applications for waste heat harvesting, and on polymer micromechanical systems.
 
