@@ -9,11 +9,9 @@ author_profile: true
 
 My research interests focus on the interplay between electronics, thermoelectrics, and nanomechanics.  
 
-First, we measure fundamental quantities that characterise the motion of charge carriers in organic semiconducting materials. These are quantitites such as how conductive the materials are (i.e., conductivity), how mobile the charge carriers in them tend to be (i.e., mobility), and how well the materials convert temperature differences into voltages (i.e., Seebeck coefficient). 
+We measure fundamental quantities that characterise the motion of charge carriers in organic semiconducting materials. These are quantitites such as how conductive the materials are (i.e., conductivity), how mobile the charge carriers in them tend to be (i.e., mobility), and how well the materials convert temperature differences into voltages (i.e., Seebeck coefficient). We also implement new force-mapping techniques on the nanoscale for high-resolution measurements of mechanics, and for high-resolution imaging to quantify material properties such as stiffness and modulus (elasticity) on the nanoscale.  
 
-Second, we implement new force-mapping techniques on the nanoscale for high-resolution mechanics and for high-resolution imaging. In this work, we quantify material properties such as stiffness and modulus (elasticity) on the nanoscale.  
-
-Our ultimate goal is to build a framework that links experimentally measured properties of mobiity, conductivity, Seebeck coefficient and elasticity to investigate physical models summarised in the diagram below. In doing so, we are able to understand and characterise the physics of organic multi-functional materials. We perform our measurements using devices fabricated on the microscale and nanoscales and have significant interest in applications around waste heat harvesting.  
+Our goal is to build a framework of fundamental understanding, based on experiment, on how the properties of mobiity, conductivity, Seebeck coefficient and elasticity are interlinked, as summarised in the diagram below. In so doing, we are able to understand and characterise the physics of organic multi-functional materials. We perform our measurements on thin films and on devices fabricated on the microscale and nanoscales. Our work has significant impact on applications in waste heat harvesting, and in polymer micromechanical systems.  
 
 <img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="850" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
