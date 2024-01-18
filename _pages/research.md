@@ -13,7 +13,7 @@ We measure fundamental quantities that characterise the motion of charge carrier
 
 Our goal is to build a framework of understanding, based on experiment, of how the properties of mobility, conductivity, Seebeck coefficient and elasticity are interlinked within organic semiconductors. Our proposed framework is summarised in the schematic diagram below. Overall, our research contributes to deeper understanding of the physics of multi-functional organic materials.  
 
-We perform our measurements on thin films and devices fabricated on the microscale and nanoscales. Our work has significant impact in applications on waste heat harvesting, and in polymer micromechanical systems for potential energy harvesting.
+Our work has significant impact on applications for waste heat harvesting, and on polymer micromechanical systems.
 
 <img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="850" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
