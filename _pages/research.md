@@ -7,7 +7,7 @@ author_profile: true
 
 <img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/CEB-AFM-lab-2023.png" width="350" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
-My research interests focus on the interplay between electronics, thermoelectrics, and nanomechanics.  
+My research interests focus on the interconnection between electronics, thermoelectrics, and nanomechanics.  
 
 We measure fundamental quantities that characterise the motion of charge carriers in organic semiconducting materials. These are quantitites such as how conductive the materials are (i.e., conductivity), how mobile the charge carriers in them tend to be (i.e., mobility), and how well the materials convert temperature differences into voltages (i.e., Seebeck coefficient). We also implement new force-mapping techniques on the nanoscale for high-resolution measurements of mechanics to quantify material properties such as stiffness and modulus (i.e., elasticity) on the nanoscale.  
 
