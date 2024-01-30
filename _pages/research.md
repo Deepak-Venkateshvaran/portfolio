@@ -15,7 +15,7 @@ Our goal is to build a framework of understanding, based on experiment, on how t
 
 Our work has significant impact on applications for waste heat harvesting, and on polymer micromechanical systems.
 
-<img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="850" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
+<img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
 **Research Consortium**  
 I run my research program jointly with collaborators in Stockholm, Sweden, namely [Prof Per Claesson](https://www.kth.se/profile/percl), [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden) and Dr Ki-Hwan Hwang, and through an academia-industry partnership with [Dr Vladimir Korolkov](https://uk.linkedin.com/in/vladimir-korolkov-26125452) at [Park Systems](https://www.parksystems.com/). Within Cambridge, I collaborate closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter. This work is funded through research grants I hold from the Royal Society.
