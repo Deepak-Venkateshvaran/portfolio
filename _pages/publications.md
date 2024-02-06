@@ -7,9 +7,9 @@ author_profile: true
 
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="200" height="260"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="200" height="259"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="200" height="260"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="200" height="260">
 
-I have worked primarily in three research areas of experimental physics over my career till date;  
+I have worked primarily in three research areas of experimental physics over my career;  
 Thermoelectrics, Spintronics, and Nanomechanics.  
-Below are my top 10 publications in these areas together with a brief summary of what we achieved. 
+Below is a representation of my top 10 publications in these areas together with a brief summary of what we achieved. 
 
 These 10 papers are the ones in which I played a major role, i.e., architecting the project, doing the experiments, building and sustaining collaborations, writing the papers, and more recently, co-ordinating with publishing editors.  
 This list does not contain papers in which I was co-author for minor involvement.  
