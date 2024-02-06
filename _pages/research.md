@@ -27,6 +27,7 @@ A small part of my research program is completely blue skies. One example of thi
 On the topic of people, I paraphrase my late mentor [Prof B. S. Chandrashekar](https://artsci.case.edu/artsci-update-archive/b-s-chandrasekhar-former-dean-of-the-college-passes-away-at-93/), "As in life, so in academic career... people will come and go. Irrespective of their age, or their education level, they will all leave an imprint on us, intellectual and behavioural. Be a friend of the world, stay curious, and walk through life believing you have something to learn from all who cross your road."  
 I very much live by these words.
 
-On the topic of teams and team culture, I quote Brian Chesky, "The best culture is one shared consciousness, where everything in your head, everything you care about is permeated throughout the people, and people would do, in a room without you, what they would do if you were there."  
-These words inspire an openness I aspire to.
+On the topic of teams and team culture, I quote Brian Chesky, "The best culture is one shared consciousness, where everything in your head, everything you care about is permeated throughout the people, and people would do, in a room without you, what they would do if you were there." 
+ 
+ These words inspire an openness I aspire to.
 
