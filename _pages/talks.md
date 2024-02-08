@@ -8,7 +8,7 @@ author_profile: true
 
 <img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/1P9A4270.jpg" width="250" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
-The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on the themes of organic electronics, thermoelectrics and nanomechanics.
+The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on the themes of organic electronics, thermoelectrics, and nanomechanics.
 
 Invited Seminar at the MRS Spring Meeting <br /> Seattle, Washington, USA, April 2024 <br /> Invitation from Dr Ulrike Kraft
 
