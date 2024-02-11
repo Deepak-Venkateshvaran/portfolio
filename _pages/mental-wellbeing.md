@@ -32,4 +32,5 @@ The bottom line is this.
 - _Bless those that treat you with indifference. They help you grow._  
 - _Comparison steals your joy. Focus on yourself and your personal development._
 
-"I suppose in the end, the whole of life becomes an act of letting go" - as aptly said in the movie Life of Pi
+"I suppose in the end, the whole of life becomes an act of letting go" - as aptly said in the movie Life of Pi 
+
