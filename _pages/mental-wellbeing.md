@@ -18,7 +18,7 @@ The personal development that comes from healing our emotional wounds, and from 
 Here is a selection of five books that helped me on my own personal growth journey. They helped me walk away from life's depths of darkness, despair, and moral preconditioning, towards a place of gratitude, peace and inner contentment. 
 
 1. [Authentic Happiness](https://www.waterstones.com/book/authentic-happiness/martin-seligman/9781857886771) - Martin Seligman
-2. Love Yourself Like Your Life Depends on It - Kamal Ravikant
+2. [Love Yourself Like Your Life Depends on It](https://www.amazon.com/Love-Yourself-Like-Your-Depends/dp/B07T9NYCFL/?_encoding=UTF8&pd_rd_w=qAALI&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=142-9607719-5216645&pd_rd_wg=DYB01&pd_rd_r=0c4161fd-d7a2-43df-bbec-b355a8007140&ref_=aufs_ap_sc_dsk) - Kamal Ravikant
 3. [Waking the Tiger](https://www.waterstones.com/book/waking-the-tiger-healing-trauma/peter-a-levine/ann-frederick/9781556432330) - Peter Levine
 4. [Surrounded by Idiots: The Four Types of Human Behaviour](https://www.surroundedbyidiots.com/en/books/surrounded-by-idiots/) - Thomas Erikson
 5. [When the Body Says No: The Cost of Hidden Stress](https://drgabormate.com/book/when-the-body-says-no/) - Gabor Maté
