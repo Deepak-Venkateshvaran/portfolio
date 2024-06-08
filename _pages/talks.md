@@ -34,6 +34,6 @@ Graduate Seminar at the Division for Surface and Corrosion Science, KTH Stockhol
 
 Invited Seminar at the Digital Cellulose Centre of the Research Institutes of Sweden (RISE) <br />  Stockholm, Sweden, January 2022 <br /> Invitation from Dr Hjalmar Granberg
 
-Invited Seminar at Hitachi Cambridge Laboratories Cambridge <br /> Cambridge, UK, October 2021 <br /> Invitation from Dr Andrew Ramsey
+Invited Seminar at Hitachi Cambridge Laboratories <br /> Cambridge, UK, October 2021 <br /> Invitation from Dr Andrew Ramsey
 
 Invited Talk at the International Conference on Flexible and Printed Electronics ICFPE 2021 <br />  Online, September 2021 <br /> Invitation from Prof Taishi Takenobu
