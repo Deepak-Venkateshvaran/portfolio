@@ -20,7 +20,7 @@ Plenary Talk at the Nano Scientific Forum Europe (NSFE) <br /> Barcelona, Spain,
 
 Invited Seminar at the SPIE Meeting <br /> San Diego, USA, August 2023 <br /> Invitation from Prof Oana Jurchescu
 
-Invited Seminar at the Institute of Solid-State Physics at the University of Latvia <br /> Riga, Latvia, December 2022 <br /> Invitation from Prof Martins Rutkis
+Invited Seminar at the Institute of Solid-State Physics, University of Latvia <br /> Riga, Latvia, December 2022 <br /> Invitation from Prof Martins Rutkis
 
 Invited Seminar at the University of Namur <br /> Namur, Belgium, December 2022 <br /> Invitation from Prof Yoann Olivier
 
@@ -30,7 +30,7 @@ Invited Seminar at the Department of Chemical Engineering and Biotechnology <br 
 
 Plenary Talk at the Nano Scientific Forum Europe (NSFE) <br />  Online, October 2022 <br /> Invitation from Dr Vladimir Korolkov
 
-Graduate Seminar at the Division for Surface and Corrosion Science at KTH Stockholm <br /> Stockholm, Sweden, September 2022 <br /> Invitation from Prof Per Claesson
+Graduate Seminar at the Division for Surface and Corrosion Science, KTH Stockholm <br /> Stockholm, Sweden, September 2022 <br /> Invitation from Prof Per Claesson
 
 Invited Seminar at the Digital Cellulose Centre of the Research Institutes of Sweden (RISE) <br />  Stockholm, Sweden, January 2022 <br /> Invitation from Dr Hjalmar Granberg
 
