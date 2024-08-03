@@ -13,7 +13,7 @@ We measure fundamental quantities that characterise organic semiconducting mater
 
 One of our goals is to build a framework of understanding, based on experiment, on how the properties of mobility, conductivity, Seebeck coefficient and elasticity are interlinked within organic semiconductors. Our proposed framework is summarised in the schematic diagram below.  
 
-An associated goal is to understand how hardness in molecular materials is built up from the scale of a single molecule, as they pack together in the solid state.  
+An associated goal is to understand how elasticity in molecular materials is built up from the scale of a single molecule, as they pack together in the solid state.  
 
 Overall, our research contributes to deeper understanding of the physics of multi-functional organic materials.  
 
