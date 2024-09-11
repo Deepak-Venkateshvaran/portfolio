@@ -7,15 +7,15 @@ author_profile: true
 
 <img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/CEB-AFM-lab-2023.png" width="350" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
-My research interests focus on the interconnection between electronics, thermoelectrics, and nanomechanics.  
+My research focuses on understanding the link between mechanical properties and electronic properties in organic semiconductors and other energy materials through precision measurements on the nanoscale. We also attempt to understand how elasticity in molecular materials is built up from the scale of a single molecule, when packed together in the solid state.  
 
-We measure fundamental quantities that characterise organic semiconducting materials. These are quantitites such as how conductive they are (i.e., conductivity), how mobile the charge carriers in these materials tend to be (i.e., mobility), and how well these materials convert temperature differences into voltages (i.e., Seebeck coefficient). We also implement new force-mapping techniques on the nanoscale for high-resolution measurements of mechanics to quantify material properties such as stiffness and modulus (i.e., elasticity) on the nanoscale.  
+We implement cutting-edge force mapping techniques using atomic force microscopes to study organic semiconductors and related energy materials under molecular doping, across temperature-induced phase transitions, at cooperative phase transitions, at reduced dimensions, at the limits of charge conduction, and through newly designed electromechanical devices.  
 
-One of our goals is to build a framework of understanding, based on experiment, on how the properties of mobility, conductivity, Seebeck coefficient, and elasticity, are interlinked within organic semiconductors. Our proposed framework is summarised in the schematic diagram below.  
+We also implement high-resolution imaging and nanomechanical measurements based on multifrequency intermodulation and higher eigenmodes to visualise contrast in conformation on the scale of a few nanometres, both in topography and in elasticity. 
 
-An associated goal is to understand how elasticity in molecular materials is built up from the scale of a single molecule, when packed together in the solid state.  
-
-Overall, our research contributes to deeper understanding of the physics of multi-functional organic materials.  
+One of our goals is to build a framework of understanding, based on experiment, on how the properties of mobility, conductivity, Seebeck coefficient, and elasticity, are interlinked within organic semiconductors. Our proposed framework is summarised in the schematic diagram below. 
+ 
+ Overall, our research contributes to deeper understanding of the physics of multi-functional organic materials.  
 
 <img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
