@@ -23,4 +23,5 @@ I am a Fellow, College Lecturer, and Director of Studies in Physics at Selwyn Co
 
 **Institutional Leadership**  
 I am a trustee at Selwyn College Cambridge, and serve on the access and outreach committee to help make Cambridge University accessible to students from economically underperforming parts of the country. I also serve on the graduate student funding committee at the Cavendish Laboratory and on several competitive research fellowship committees in Cambridge, contributing to decision-making around funding for postgraduate applicants and research.  
+
 From 2024, I work part-time at the Department of Science, Innovation and Technology (DSIT) of the UK Government on policy around advanced materials. 
