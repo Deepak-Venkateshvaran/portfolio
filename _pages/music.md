@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img align = "center" src="https://deepak-venkateshvaran.github.io/portfolio/images/deepak-groom.png" height ="200" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;"> <img align = "center" src="https://deepak-venkateshvaran.github.io/portfolio/images/1-Tabla-Talk-28-Sept-2024.jpg" height ="200" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;"> <img align = "center" src="https://deepak-venkateshvaran.github.io/portfolio/images/2-Tabla-Talk-28-Sept-2024.jpg" height ="200" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">  
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/deepak-groom.png" width="260" height ="200" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/1-Tabla-Talk-28-Sept-2024.jpg" width="260" height ="200" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/2-Tabla-Talk-28-Sept-2024.jpg" width="260" height ="200" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">  
 
 
 I have played the Indian *tabla* for several decades, and routinely perform with well known world musicians like [Catherine Groom](https://www.mus.cam.ac.uk/directory/catherine-groom), [Hibiki Ichikawa](https://hibikishamisen.com/), and [Hidé Takemoto](https://www.hideguitar.com/). 
