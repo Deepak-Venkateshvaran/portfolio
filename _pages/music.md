@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/deepak-groom.png" width="292" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/1-Tabla-Talk-28-Sept-2024.jpg" width="280" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/2-Tabla-Talk-28-Sept-2024.jpg" width="280" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;">  
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/deepak-groom.png" width="302" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/1-Tabla-Talk-28-Sept-2024.jpg" width="290" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/2-Tabla-Talk-28-Sept-2024.jpg" width="290" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;">  
 
 
 I have played the Indian *tabla* for several decades, and routinely perform with well known world musicians like [Catherine Groom](https://www.mus.cam.ac.uk/directory/catherine-groom), [Hibiki Ichikawa](https://hibikishamisen.com/), and [Hidé Takemoto](https://www.hideguitar.com/). 
