@@ -21,4 +21,4 @@ The unique construction of the tabla and the vibrational properties of its loade
 
 <object data="https://www.sel.cam.ac.uk/sites/default/files/2023-11/Selwyn%20Calendar%202022-23.pdf#page=27" width="1000" height="768" type='application/pdf'></object>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XlozOFfvi8I?si=OrMUhEGmplTj5TNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XlozOFfvi8I?si=OrMUhEGmplTj5TNv" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
