@@ -9,7 +9,7 @@ We are products of social programming. Our societal circles dictate what is expe
 
 When we are young, we have little ability to influence our way of thinking. As a grown up, we believe the way we think and how we organise ourselves constitutes our personality. 
 
-Why do we sometimes behave the way we do? What moral code of judgement do we lean on? What fraction of our decisions are subconsciously driven by fear? These are questions we don't often stop to ask ourselves.
+What dictates our behaviour and how we view the world? What moral code of judgement do we lean on? What fraction of our decisions are driven subconsciously by fear? These are questions we don't often stop to ask ourselves.
 
 There comes a point when a spanner is thrown in the works forcing us to question our ways. These catalytic moments stem from the most difficult times in our lives. They could be the death of a loved one, a relationship breakup, sudden illness, the loss of an opportunity we deeply craved for, or others of similar gravity. On occasion, they may even be inspired by envy. Such moments force us to question what works for our life and what doesn't. Are we indeed getting the most from our short time on the planet or are we only engaging in a tick box exercise to please the anonymous face of society. 
 
