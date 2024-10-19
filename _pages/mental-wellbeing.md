@@ -5,7 +5,7 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
-We are products of social programming. Our societal circles dictate what is expected of us, and what constitutes right and wrong. We please with the subconscious intent to conform. Conformity offers us community.
+We are products of socialisation. Our societal circles dictate what is expected of us, and what constitutes right and wrong. We please with the subconscious intent to conform. Conformity offers us community.
 
 When we are young, we have little ability to influence our way of thinking. As a grown up, we believe the way we think and how we organise ourselves constitutes our personality. 
 
