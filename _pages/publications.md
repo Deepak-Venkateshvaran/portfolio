@@ -26,7 +26,7 @@ Chris N. Warwick, Deepak Venkateshvaran *et al.*, **APL Materials** 3, 096104 (2
 Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
-Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347–4354 (2020)  
+Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020)  
 *Electrical detection of fast heat transport through molecular films under vibrational resonance*
  
 
@@ -38,7 +38,7 @@ Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008)
 Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009)  
 *A comprehensive study of the magnetic properties in oxide thin films and how they can be tailored*  
 
-Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98-107 (2019)  
+Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019)  
 *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
 
 
