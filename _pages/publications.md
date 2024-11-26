@@ -28,7 +28,7 @@ Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Na
 *Electrical detection of fast heat transport through molecular films under vibrational resonance*  
 
 Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024)  
-*Attempt to interpret the thermoelectric properties of organic semiconductors from a polaronic perspective* 
+*Interpretation and unification of the thermoelectric properties of organic semiconductors based on polarons* 
  
 
 ## Spintronics  
