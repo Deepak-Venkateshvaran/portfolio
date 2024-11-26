@@ -21,14 +21,14 @@ Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014)
 Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014)  
 *Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
 
-Chris N. Warwick, Deepak Venkateshvaran *et al.*, **APL Materials** 3, 096104 (2015)  
-*Novel measurement of voltage modulated thermoelectric effects in a small molecule transistor device* 
-
 Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
 Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020)  
-*Electrical detection of fast heat transport through molecular films under vibrational resonance*
+*Electrical detection of fast heat transport through molecular films under vibrational resonance*  
+
+Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024)  
+*Attempt to interpret the thermoelectric properties of organic semiconductors from a polaronic perspective* 
  
 
 ## Spintronics  
