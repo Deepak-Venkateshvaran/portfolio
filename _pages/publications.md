@@ -9,7 +9,7 @@ author_profile: true
 
 
 I have worked primarily in three research areas of experimental physics over my career; Thermoelectrics, Spintronics, and Nanomechanics.  
-Below are my top ten key publications in these areas with a one line description of what we achieved. These ten papers are the ones in which I played a major role. The list below does not contain papers where I was co-author for minor involvement.  
+Below is a selection of my key publications in these areas with a one line description of what we achieved. These papers are the ones in which I played a major role. The list below does not contain papers where I was co-author for minor involvement.  
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
 
@@ -50,6 +50,9 @@ Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communicat
 
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
+
+Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran  - in revision (2025)  
+*Molecular origins of stiffness in organic semiconductor thin films*
 
 ---
 From a publication standpoint, here are some guidelines on how research is starting to be evaluated: [DORA](https://sfdora.org/read/)
