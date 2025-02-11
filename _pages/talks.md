@@ -10,7 +10,7 @@ author_profile: true
 
 The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on the themes of organic semiconductors, thermoelectrics, and nanomechanics.
 
-Invited Lecture at the International Conference on Condensed Conjugation <br /> Kyoto, Japan, March 2025 <br /> Invitation from Prof Taishi Takenobu and Prof Takashi Kubo
+Invited Lecture at the International Conference on Condensed Conjugation <br /> Kyoto, Japan, March 2025 <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
 
 Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> Oxford, United Kingdom, May 2024 <br /> Invitation from Prof Arzhang Ardavan
 
