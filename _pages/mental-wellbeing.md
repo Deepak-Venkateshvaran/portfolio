@@ -24,7 +24,7 @@ Here is a selection of books that helped me on my own personal growth journey. T
 3. [Waking the Tiger](https://www.waterstones.com/book/waking-the-tiger-healing-trauma/peter-a-levine/ann-frederick/9781556432330) - Peter Levine
 4. [Surrounded by Idiots: The Four Types of Human Behaviour](https://www.surroundedbyidiots.com/en/books/surrounded-by-idiots/) - Thomas Erikson
 5. [When the Body Says No: The Cost of Hidden Stress](https://drgabormate.com/book/when-the-body-says-no/) - Gabor Maté
-6. [Don't Believe Everything You Think: Why Your Thinking Is The Beginning & End Of Suffering](https://josephnguyen.org/collections/ebooks/products/dont-believe-everything-you-think-kindle-epub) - Joseph Nguyen
+6. [Don't Believe Everything You Think: Why Your Thinking Is The Beginning & End Of Suffering](https://www.amazon.co.uk/Dont-Believe-Everything-You-Think/dp/B09WPP7R6S) - Joseph Nguyen
 
    
 The bottom line is this.  
