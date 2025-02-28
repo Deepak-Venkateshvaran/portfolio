@@ -20,11 +20,11 @@ One of our goals is to build a framework of understanding, based on experiment, 
 <img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
 **Research Consortium**  
-I run my research program jointly with collaborators in Cambridge, Dr Ki-Hwan Hwang and Mr Mateo Cervantes, and with collaborators in Stockholm, [Prof Per Claesson](https://www.kth.se/profile/percl) and [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden). We also have industry ties through an academia-industry partnership with [Park Systems](https://www.parksystems.com/). 
+I run my research program jointly with collaborators in Cambridge, Dr Ki-Hwan Hwang and Mr Mateo Cervantes, and with collaborators in Stockholm, [Prof Per Claesson](https://www.kth.se/profile/percl) and [Dr Illia Dobryden](https://www.ri.se/en/person/illia-dobryden). We also profit from strong industry ties through an academia-industry partnership with [Park Systems](https://www.parksystems.com/). On theory and calculations of molecular mechanics, I work with [Prof Erin Johnson](https://www.ch.cam.ac.uk/news/royal-society-wolfson-visiting-fellow-erin-johnson) and [Prof Yoann Olivier](https://www.unamur.be/en/sciences/physics/research/lps/yoann-olivier). 
 
-On theory and calculations of molecular mechanics, I work with [Prof Erin Johnson](https://www.ch.cam.ac.uk/news/royal-society-wolfson-visiting-fellow-erin-johnson) and [Prof Yoann Olivier](https://www.unamur.be/en/sciences/physics/research/lps/yoann-olivier). We also collaborate closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter. 
+Beyond electronically active materials, we collaborate closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and with [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to expand the systems we study to include biological matter. 
 
-My work is funded in most part through research grants I hold from the Royal Society, for which I am deeply grateful.
+My work is funded in most part through research grants I hold from the Royal Society for which I am deeply grateful.
 
 In 2024, I jointly initiated a new program on molecular thermoelectrics with [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/) at the ULB in Belgium, funded through a Wiener Anspach Foundation research grant.
 
