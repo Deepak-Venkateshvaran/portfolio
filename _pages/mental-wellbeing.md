@@ -5,11 +5,9 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
-We are products of socialisation. Our societal circles dictate what is expected of us, and what constitutes right and wrong. We please with the subconscious intent to conform. Conformity offers us community.
+We are products of socialisation. The societies we grew up in shape the way we think. Our early life's experience moulds how we emotionally experience the world around us. The people we grew up with hand us a rule book on how they consider life is lived. Most of our thoughts and opinions are not our own. They are planted into us throughout our lives. Guardians, gurus, and the media. They all play a role. As young people, we have little ability to influence our own way of thinking. When we turn into grown ups, we believe the way we think and how we organise ourselves constitutes our personality. We please with the subconscious intent to conform. Conformity offers us community.
 
-When we are young, we have little ability to influence our way of thinking. As a grown up, we believe the way we think and how we organise ourselves constitutes our personality. 
-
-What dictates our behaviour and how we view the world? What moral code of judgement do we lean on? What fraction of our decisions are driven subconsciously by fear? These are questions we don't often stop to ask ourselves.
+What dictates our behaviour, our experience of the world, and our emotional reactions to situations? What moral code of judgement do we lean on? Are we driven by fear when making decisions? These are questions we don't stop to ask ourselves.
 
 There comes a point when a spanner is thrown in the works forcing us to question our ways. These catalytic moments stem from the most difficult times in our lives. They could be the death of a loved one, a relationship breakup, sudden illness, the loss of an opportunity we deeply craved for, or others of similar gravity. On occasion, they may even be inspired by envy. Such moments force us to question what works for our life and what doesn't. Are we indeed getting the most from our short time on the planet or are we only engaging in a tick box exercise to please the anonymous face of society. 
 
