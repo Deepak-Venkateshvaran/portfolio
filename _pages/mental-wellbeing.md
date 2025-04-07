@@ -13,7 +13,7 @@ There comes a point when a spanner is thrown in the works forcing us to question
 
 Tough moments have the energy to inspire resilience, institute change, and foster growth. They motivate us to re-invent, to arise, and to become better versions of ourselves. Tough moments inspire us to observe that voice in our heads, and appreciate that the biggest battles we wage are the ones we fight in our mind, with our preconditioned selves. 
 
-The personal development that comes from healing our emotional wounds and from rectifying our pre-programmed habits helps us live with intent. It helps us live with respect and compassion for ourselves. It helps us share love with others without condition.
+The personal development that comes from healing our emotional wounds, and from correcting our pre-programmed habits and limiting beliefs, helps us live with intent. It helps us live with respect and compassion for ourselves. It helps us share love with others without condition.
 
 Here is a selection of books that helped me along my personal growth journey. They helped me move towards a space of gratitude, peace, and inner contentment. 
 
