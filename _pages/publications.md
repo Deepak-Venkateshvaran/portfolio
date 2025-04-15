@@ -33,22 +33,22 @@ My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=
 
 ## Spintronics  
 
-Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008)  
+[Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.092405)  
 *Discovery of a universal scaling behaviour in the anomalous Hall effect in magnetic oxides*  
 
-Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009)  
+[Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.134405)  
 *A comprehensive study of the magnetic properties in oxide thin films and how they can be tailored*  
 
-Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019)  
+[Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019)](https://www.nature.com/articles/s41928-019-0222-5)  
 *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
 
 
 ## Nanomechanics
 
-Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022)  
+[Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022)](https://www.nature.com/articles/s41467-022-30801-x)  
 *World's first demonstration of ultrahigh contrast nanomechanics in an organic polymer film*  
 
-Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022)  
+[Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
 Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran  - in revision (2025)  
