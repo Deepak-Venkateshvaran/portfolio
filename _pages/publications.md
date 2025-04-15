@@ -15,19 +15,19 @@ My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=
 
 ## Thermoelectrics
 
-Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014)  
+[Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014)](https://www.nature.com/articles/nature13854)  
 *World's first demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
 
-Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014)  
+[Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014)](https://pubs.aip.org/aip/apm/article/2/3/032102/120208/Field-effect-modulated-Seebeck-coefficient)  
 *Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
 
-Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017)  
+[Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
-Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020)  
+[Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020)](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Electrical detection of fast heat transport through molecular films under vibrational resonance*  
 
-Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024)  
+[Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024)](https://spj.science.org/doi/10.34133/adi.0067)  
 *Interpretation and unification of the thermoelectric properties in organic semiconductors based on polarons* 
  
 
