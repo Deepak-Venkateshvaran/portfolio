@@ -5,6 +5,10 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
+_"Every life crisis carries within it the kernels of a reversal, a renewal, an expansion, a leap in consciousness, and a letting go of the old and a birth of the new. When we discover and acknowledge the hidden gift that is there, a healing takes place. - David R. Hawkins"_
+
+
+
 The societies we grow up in shape the way we think. Our early life's experience moulds how we emotionally experience the world. The people we grew up with hand us a rule book on how life is to be lived. Most of our thoughts and opinions are not really our own. They are planted into us throughout our lives. Guardians, gurus, peers, and the media; they all play a role in how we are programmed. As young people, we have little ability to influence our way of thinking. Later in life, we believe that our interests, drives, values, abilities, and emotional patterns constitute our personality. 
 
 What dictates our habits and our emotional reactions to situations? What moral code of judgement do we lean on? Do we subconsciously project our subjective thinking onto the words and actions of others? Are we aware of our actions that are driven by fear? Should we reparent ourselves later in life? These are questions we don't often stop to ask.
