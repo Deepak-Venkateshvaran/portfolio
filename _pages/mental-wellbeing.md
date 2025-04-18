@@ -5,7 +5,7 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
-_"Every life crisis carries within it the kernels of a reversal, a renewal, an expansion, a leap in consciousness, and a letting go of the old and a birth of the new - David R. Hawkins"_
+_"Every life crisis carries within it the kernels of a reversal, a renewal, an expansion, a leap in consciousness, and a letting go of the old and a birth of the new" - David R. Hawkins_
 
 
 
