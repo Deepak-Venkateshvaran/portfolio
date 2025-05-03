@@ -18,7 +18,7 @@ Panel Discussion Member at the Royal Society and King’s College London Science
 
 Invited Seminar on Energy Materials, Cambridge University <br /> "Nanomechanics of Energy Materials" <br /> Cambridge, United Kingdom, February 2025 <br /> Invitation from Prof Akshay Rao
 
-Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> "Innovative device and characterisation concepts for organic semiconductors based on thermoelectrics and nanomechanics" <br /> Oxford, United Kingdom, Oxford, United Kingdom, May 2024 <br /> Invitation from Prof Arzhang Ardavan
+Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> "Innovative device and characterisation concepts for organic semiconductors based on thermoelectrics and nanomechanics" <br /> Oxford, United Kingdom, May 2024 <br /> Invitation from Prof Arzhang Ardavan
 
 Invited Seminar at the [MRS Spring Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2024-mrs-spring-meeting/2024-mrs-spring-meeting-4006890) <br /> "Nanomechanics of materials used in flexible electronics" <br />  Seattle, Washington, USA, April 2024 <br /> Invitation from Dr Ulrike Kraft
 
