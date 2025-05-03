@@ -10,17 +10,17 @@ author_profile: true
 
 The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on organic semiconductors, thermoelectrics, nanomechanics, and more recently, on Science Policy in Government.
 
-Invited Lecture at the [International Conference on Condensed Conjugation](https://x-con.jp/activity/event/international-conference-on-condensed-conjugation) <br /> "Nanomechanics of 𝜋-conjugated molecular semiconductors" <br /> Kyoto, Japan, March 2025 <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
+Invited Lecture at the [International Conference on Condensed Conjugation](https://x-con.jp/activity/event/international-conference-on-condensed-conjugation) <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Kyoto, Japan, March 2025 <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
 
-Invited Lecture at the [Department of Physics, Hong Kong Baptist University](https://physics.hkbu.edu.hk/news/physics-seminar-nanomechanics-of-p-conjugated-molecular-semiconductors) <br /> "Nanomechanics of 𝜋-conjugated molecular semiconductors" <br /> Hong Kong, March 2025 <br /> Invitation from Prof Shu-Jen Wang
+Invited Lecture at the [Department of Physics, Hong Kong Baptist University](https://physics.hkbu.edu.hk/news/physics-seminar-nanomechanics-of-p-conjugated-molecular-semiconductors) <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Hong Kong, March 2025 <br /> Invitation from Prof Shu-Jen Wang
 
-Panel Discussion Member at the Royal Society and King’s College London Science Policy Primer Course Alumni Event <br /> London, United Kingdom, February 2025 <br /> Invitation from The Royal Society
+Panel Discussion Member at the Royal Society and King’s College London Science Policy Primer Course Alumni Event <br /> _Graphene roulette: ministers, money, and the spin of innovation_ <br /> London, United Kingdom, February 2025 <br /> Invitation from The Royal Society
 
-Invited Seminar on Energy Materials, Cambridge University <br /> "Nanomechanics of Energy Materials" <br /> Cambridge, United Kingdom, February 2025 <br /> Invitation from Prof Akshay Rao
+Invited Seminar on Energy Materials, Cambridge University <br /> _Nanomechanics of Energy Materials_ <br /> Cambridge, United Kingdom, February 2025 <br /> Invitation from Prof Akshay Rao
 
-Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> "Innovative device and characterisation concepts for organic semiconductors based on thermoelectrics and nanomechanics" <br /> Oxford, United Kingdom, May 2024 <br /> Invitation from Prof Arzhang Ardavan
+Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> _Innovative device and characterisation concepts for organic semiconductors based on thermoelectrics and nanomechanics_ <br /> Oxford, United Kingdom, May 2024 <br /> Invitation from Prof Arzhang Ardavan
 
-Invited Seminar at the [MRS Spring Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2024-mrs-spring-meeting/2024-mrs-spring-meeting-4006890) <br /> "Nanomechanics of materials used in flexible electronics" <br />  Seattle, Washington, USA, April 2024 <br /> Invitation from Dr Ulrike Kraft
+Invited Seminar at the [MRS Spring Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2024-mrs-spring-meeting/2024-mrs-spring-meeting-4006890) <br /> _Nanomechanics of materials used in flexible electronics_ <br />  Seattle, Washington, USA, April 2024 <br /> Invitation from Dr Ulrike Kraft
 
 Invited Seminar at the [MRS Fall Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2023-mrs-fall-meeting/2023-mrs-fall-meeting-3963265) <br /> Boston, USA, December 2023<br /> Invitation from Prof Dhandapani Venkataraman
 
