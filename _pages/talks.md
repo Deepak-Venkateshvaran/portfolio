@@ -14,13 +14,13 @@ Invited Lecture at the [International Conference on Condensed Conjugation](https
 
 Invited Lecture at the [Department of Physics, Hong Kong Baptist University](https://physics.hkbu.edu.hk/news/physics-seminar-nanomechanics-of-p-conjugated-molecular-semiconductors) <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> **Hong Kong, March 2025** <br /> Invitation from Prof Shu-Jen Wang
 
-Panel Discussion Member at the Royal Society and King’s College London Science Policy Primer Course Alumni Event <br /> _Graphene roulette: ministers, money, and the spin of innovation_ <br /> **London, UK, February 2025** <br /> Invitation from The Royal Society
+Panel Discussion Member at the Royal Society and King’s College London Science Policy Primer Course Alumni Event <br /> _Graphene roulette: ministers, money, and the spin of innovation_ <br /> **London, United Kingdom, February 2025** <br /> Invitation from The Royal Society
 
-Invited Seminar on Energy Materials, Cambridge University <br /> _Nanomechanics of Energy Materials_ <br /> **Cambridge, UK, February 2025** <br /> Invitation from Prof Akshay Rao
+Invited Seminar on Energy Materials, Cambridge University <br /> _Nanomechanics of Energy Materials_ <br /> **Cambridge, United Kingdom, February 2025** <br /> Invitation from Prof Akshay Rao
 
-Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> _Innovative device and characterisation concepts for organic semiconductors based on thermoelectrics and nanomechanics_ <br /> **Oxford, UK, May 2024** <br /> Invitation from Prof Arzhang Ardavan
+Invited Seminar at the Condensed Matter Physics Group, Oxford University <br /> _Innovative device and characterisation concepts for organic semiconductors based on thermoelectrics and nanomechanics_ <br /> **Oxford, United Kingdom, May 2024** <br /> Invitation from Prof Arzhang Ardavan
 
-Invited Seminar at the [MRS Spring Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2024-mrs-spring-meeting/2024-mrs-spring-meeting-4006890) <br /> _Nanomechanics of materials used in flexible electronics_ <br />  **Seattle, Washington, USA, April 2024** <br /> Invitation from Dr Ulrike Kraft
+Invited Seminar at the [MRS Spring Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2024-mrs-spring-meeting/2024-mrs-spring-meeting-4006890) <br /> _Nanomechanics of materials used in flexible electronics_ <br />  **Seattle, USA, April 2024** <br /> Invitation from Dr Ulrike Kraft
 
 Invited Seminar at the [MRS Fall Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2023-mrs-fall-meeting/2023-mrs-fall-meeting-3963265) <br /> **Boston, USA, December 2023** <br /> Invitation from Prof Dhandapani Venkataraman
 
@@ -32,9 +32,9 @@ Invited Seminar at the [Institute of Solid-State Physics, University of Latvia](
 
 Invited Seminar at the University of Namur <br /> **Namur, Belgium, December 2022** <br /> Invitation from Prof Yoann Olivier
 
-CAPE Advanced Technology Lecture at the [Department of Electrical Engineering](https://talks.cam.ac.uk/talk/index/193169) <br /> **Cambridge, UK, November 2022** <br /> Invitation from Prof Daping Chu
+CAPE Advanced Technology Lecture at the [Department of Electrical Engineering](https://talks.cam.ac.uk/talk/index/193169) <br /> **Cambridge, United Kingdom, November 2022** <br /> Invitation from Prof Daping Chu
 
-Invited Seminar at the Department of Chemical Engineering and Biotechnology <br /> **Cambridge, UK, November 2022** <br /> Invitation from Prof Lijljana Fruk
+Invited Seminar at the Department of Chemical Engineering and Biotechnology <br /> **Cambridge, United Kingdom, November 2022** <br /> Invitation from Prof Lijljana Fruk
 
 Plenary Talk at the [Nano Scientific Forum Europe (NSFE)](https://event.nanoscientific.org/eu/2022) <br />  **Online, October 2022** <br /> Invitation from Dr Vladimir Korolkov
 
@@ -42,6 +42,6 @@ Graduate Seminar at the Division for Surface and Corrosion Science, KTH Stockhol
 
 Invited Seminar at the Digital Cellulose Centre of the Research Institutes of Sweden (RISE) <br />  **Stockholm, Sweden, January 2022** <br /> Invitation from Dr Hjalmar Granberg
 
-Invited Seminar at Hitachi Cambridge Laboratories <br /> **Cambridge, UK, October 2021** <br /> Invitation from Dr Andrew Ramsey
+Invited Seminar at Hitachi Cambridge Laboratories <br /> **Cambridge, United Kingdom, October 2021** <br /> Invitation from Dr Andrew Ramsey
 
 Invited Talk at the [International Conference on Flexible and Printed Electronics ICFPE 2021](https://www.eng.niigata-u.ac.jp/~icfpe/) <br />  **Online, September 2021** <br /> Invitation from Prof Taishi Takenobu
