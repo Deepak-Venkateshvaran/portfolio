@@ -56,11 +56,11 @@ Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federi
 
 ## Science Policy
 
-Deepak Venkateshvaran, **DSIT Green Paper** (2024)   
+Deepak Venkateshvaran, **DSIT Internal Paper** (2024)   
 *Battery-free Energy - Harvesting clean energy from ambient sources*  
 Commissioned by Liam Izod, Head of Technology Growth  
 
-Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Green Paper** (2025)  
+Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Internal Paper and Analysis** (2025)  
 *Two decades of graphene*  
 Commissioned by Caroline France, Head of Technology Growth  
  
