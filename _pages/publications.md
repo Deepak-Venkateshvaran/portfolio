@@ -58,11 +58,11 @@ Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federi
 
 Deepak Venkateshvaran, **DSIT Internal Paper** (2024)   
 *Battery-free Energy - Harvesting clean energy from ambient sources*  
-Commissioned by Liam Izod, Head of Technology Growth  
+Commissioned by Liam Izod, Head of Technology Growth, UK Government  
 
 Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Internal Paper and Analyses** (2025)  
 *Two decades of graphene*  
-Commissioned by Caroline France, Head of Technology Growth  
+Commissioned by Caroline France, Head of Technology Growth, UK Government  
  
 
 ---
