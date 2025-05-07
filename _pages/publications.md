@@ -8,10 +8,9 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-My work has focused on understanding the fundamental properties and applications of semiconductors.
-Below is a selection of my key publications in which I played a major role.  
+My work has focused on understanding the fundamentals and applications of semiconductors.  
+Below is a selection of key publications in which I played a major role.  
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
-
 
 ## Thermoelectrics
 
@@ -57,18 +56,13 @@ Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federi
 
 ## Science Policy
 
-*Two decades of graphene*  
-Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Green Paper** (2025)  
-Commissioned by Caroline France - Head of Technology Growth  
-
-
-*Battery-free Energy - Harvesting clean energy from ambient sources*  
 Deepak Venkateshvaran, **DSIT Green Paper** (2024)   
-Commissioned by Liam Izod - Head of Technology Growth  
+*Battery-free Energy - Harvesting clean energy from ambient sources*  
+Commissioned by Liam Izod, Head of Technology Growth  
 
-
-
-
+Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Green Paper** (2025)  
+*Two decades of graphene*  
+Commissioned by Caroline France, Head of Technology Growth  
 
 ---
 From a publication standpoint, here are some guidelines on how research is starting to be evaluated: [DORA](https://sfdora.org/read/)
