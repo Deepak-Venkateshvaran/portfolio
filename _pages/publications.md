@@ -10,7 +10,6 @@ author_profile: true
 
 My work broadly focuses on understanding the fundamentals and applications of semiconductors.  
 Below is a selection of key publications in which I played a major role.  
-My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.  
 
 
 ## Thermoelectrics
@@ -64,6 +63,10 @@ Commissioned by Liam Izod, Head of Technology Growth
 Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Green Paper** (2025)  
 *Two decades of graphene*  
 Commissioned by Caroline France, Head of Technology Growth  
+
+
+
+My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.  
 
 ---
 From a publication standpoint, here are some guidelines on how research is starting to be evaluated: [DORA](https://sfdora.org/read/)
