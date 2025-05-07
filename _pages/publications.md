@@ -9,7 +9,7 @@ author_profile: true
 
 
 My work has focused on understanding the fundamental properties and applications of semiconductors.
-Below is a selection of my key publications in which I played a major role. 
+Below is a selection of my key publications in which I played a major role.  
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
 
@@ -57,14 +57,14 @@ Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federi
 
 ## Science Policy
 
+*Two decades of graphene*  
 Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Green Paper** (2025)  
 Commissioned by Caroline France - Head of Technology Growth  
-*Two decades of graphene*  
 
+
+*Battery-free Energy - Harvesting clean energy from ambient sources*  
 Deepak Venkateshvaran, **DSIT Green Paper** (2024)   
 Commissioned by Liam Izod - Head of Technology Growth  
-*Battery-free Energy - Harvesting clean energy from ambient sources*
-
 
 
 
