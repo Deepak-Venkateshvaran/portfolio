@@ -8,8 +8,8 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-I have worked primarily in three research areas of experimental physics over my career; Thermoelectrics, Spintronics, and Nanomechanics.  
-Below is a selection of my key publications in these areas with a one line description of what we achieved. These papers are the ones in which I played a major role. The list below does not contain papers where I was co-author for minor involvement.  
+My work has focused on understanding the fundamental properties and applications of semiconductors.
+Below is a selection of my key publications in which I played a major role. 
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.
 
 
@@ -52,7 +52,23 @@ Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electron
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
 Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran  - in revision (2025)  
-*Molecular origins of stiffness in organic semiconductor thin films*
+*Molecular origins of stiffness in organic semiconductor thin films*  
+
+
+## Science Policy
+
+Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT Green Paper** (2025)  
+Commissioned by Caroline France - Head of Technology Growth  
+*Two decades of graphene*  
+
+Deepak Venkateshvaran, **DSIT Green Paper** (2024)   
+Commissioned by Liam Izod - Head of Technology Growth  
+*Battery-free Energy - Harvesting clean energy from ambient sources*
+
+
+
+
+
 
 ---
 From a publication standpoint, here are some guidelines on how research is starting to be evaluated: [DORA](https://sfdora.org/read/)
