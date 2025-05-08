@@ -9,6 +9,7 @@ author_profile: true
 
 
 My work broadly focuses on understanding the fundamentals and applications of semiconductors.  
+
 Below is a selection of key publications in which I played a major role.  
 
 
@@ -67,4 +68,5 @@ Commissioned by Caroline France, Head of Technology Growth, UK Government
 
 ---
 My [Google Scholar](https://scholar.google.co.uk/citations?user=otuUyXIAAAAJ&hl=en) profile documents my complete list of publications.  
+
 From a publication standpoint, here are some guidelines on how research is starting to be evaluated: [DORA](https://sfdora.org/read/)
