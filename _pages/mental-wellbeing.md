@@ -21,7 +21,7 @@ Are we subconsciously held back by our preprogrammed behaviour and repetitive th
 
 We don't often stop to ask these questions.
 
-There comes a point when a spanner is thrown in the works forcing us to question our ways. These catalytic moments stem from difficult times in our lives; the death of a loved one, a relationship breakup, sudden illness, loss of an opportunity we deeply craved, and others of similar gravity. On occasion, we are inspired by envy.  
+There comes a point when a spanner is thrown in the works forcing us to question our ways. These catalytic moments stem from difficult times in our lives; the death of a loved one, a relationship breakup, sudden illness, loss of an opportunity we deeply craved, and others of similar gravity. On occasion, we may be inspired by envy.  
 
  _Every life crisis carries within it the kernels of a reversal, a renewal, an expansion, a leap in consciousness, a letting go of the old, and a birth of the new - David R. Hawkins_
 
