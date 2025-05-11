@@ -31,7 +31,7 @@ The personal development that comes from healing our emotional wounds, correctin
 It helps us live with respect and compassion for ourselves.  
 It helps us share love with others without condition.
 
-Here is a selection of books that helped me along my personal growth journey.  
+A good book is sometimes what we need to help us understand ourselves better. Here is a selection of books that helped me along my personal growth journey. 
 
 1. [Authentic Happiness](https://www.waterstones.com/book/authentic-happiness/martin-seligman/9781857886771) - Martin Seligman
 2. [Love Yourself Like Your Life Depends on It](https://www.amazon.com/Love-Yourself-Like-Your-Depends/dp/B07T9NYCFL/?_encoding=UTF8&pd_rd_w=qAALI&content-id=amzn1.sym.cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_p=cf86ec3a-68a6-43e9-8115-04171136930a&pf_rd_r=142-9607719-5216645&pd_rd_wg=DYB01&pd_rd_r=0c4161fd-d7a2-43df-bbec-b355a8007140&ref_=aufs_ap_sc_dsk) - Kamal Ravikant
@@ -40,7 +40,7 @@ Here is a selection of books that helped me along my personal growth journey.
 5. [When the Body Says No: The Cost of Hidden Stress](https://drgabormate.com/book/when-the-body-says-no/) - Gabor Maté
 6. [Don't Believe Everything You Think: Why Your Thinking Is The Beginning & End Of Suffering](https://www.amazon.co.uk/Dont-Believe-Everything-You-Think/dp/B09WPP7R6S) - Joseph Nguyen
    
-In short,
+In short version is this.
 
 - _Be kind. Both to yourself, and to others._  
 - _It may sound corny, but love is the answer. Love unconditionally._  
