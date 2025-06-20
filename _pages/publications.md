@@ -54,7 +54,7 @@ Silvia Cristofaro, Dorothée Brandt, Vincent Lemaur, Ki-Hwan Hwang, Ljiljana Fru
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*
 
 Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Mateo T. R. Cervantes, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran  - in revision (2025)  
-*Molecular origins of stiffness in organic semiconductor thin films*  
+*Measuring the molecular origins of stiffness in organic semiconductors*  
 
 
 ## Science Policy
