@@ -50,7 +50,7 @@ Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communicat
 Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
-S. Cristofaro, D. Brandt, V. Lemaur, K. Hwang, L. Fruk, D. Venkateshvaran, L. Muccioli, S. Orlandi and Y. Olivier, **J. Mater. Chem. C** (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
+Silvia Cristofaro, Dorothée Brandt, ... D. Venkateshvaran, L. Muccioli, S. Orlandi and Y. Olivier, **J. Mater. Chem. C** (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*
 
 Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Mateo T. R. Cervantes, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran  - in revision (2025)  
