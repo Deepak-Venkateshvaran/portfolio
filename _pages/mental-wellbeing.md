@@ -23,9 +23,7 @@ We don't often stop to ask these questions.
 
 There comes a point when a spanner is thrown in the works forcing us to question our ways. These catalytic moments stem from difficult times in our lives; the death of a loved one, a relationship breakup, sudden illness, loss of an opportunity we deeply craved, and others of similar gravity. On occasion, we may even be inspired by envy.  
 
- _Every life crisis carries within it the kernels of a reversal, a renewal, an expansion, a leap in consciousness, a letting go of the old, and a birth of the new - David R. Hawkins_
-
-Tough moments have the energy to inspire resilience, institute change, and foster growth. They motivate us to arise, and become better versions of ourselves. Tough moments inspire us to observe that voice in our heads, and learn that the biggest battles we wage are the ones we fight in our head, with our preconditioned selves. 
+Tough moments have the energy to inspire resilience, institute change, and foster growth. They motivate us to arise, and become better versions of ourselves. Tough moments inspire us to observe that voice in our heads, and learn that the biggest battles we wage are the ones we fight in our head, with our preconditioned selves.  
 
 The personal development that comes from healing our emotional wounds, correcting our pre-programmed habits, and addressing our limiting beliefs, helps us live with intent.  
 It helps us live with respect and compassion for ourselves.  
