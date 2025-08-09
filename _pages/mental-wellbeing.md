@@ -38,7 +38,7 @@ A good book is sometimes what we need to help us understand ourselves better. He
 5. [When the Body Says No: The Cost of Hidden Stress](https://drgabormate.com/book/when-the-body-says-no/) - Gabor Maté
 6. [Don't Believe Everything You Think: Why Your Thinking Is The Beginning & End Of Suffering](https://www.amazon.co.uk/Dont-Believe-Everything-You-Think/dp/B09WPP7R6S) - Joseph Nguyen
    
-In short version is this.
+The short version is this.
 
 - _Be kind. Both to yourself, and to others._  
 - _It may sound corny, but love is the answer. Love unconditionally._  
