@@ -1,9 +1,10 @@
-<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/cedcc3d1-6124-40a4-8d93-85ff8ddad25a" />---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
