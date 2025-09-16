@@ -58,7 +58,10 @@ Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federi
 *Measuring the molecular origins of stiffness in organic semiconductors*  
 
 Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2025)  
-*Evolution of nanoscale mechanical tortuosity across thermal phase transitions in a semiconducting polymer*
+*Evolution of nanoscale mechanical tortuosity across thermal phase transitions in a semiconducting polymer*  
+
+Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, Guillaume Schweicher, Deepak Venkateshvaran, Yves Geerts (2026)
+*Nanomechanical properties across cooperative phase transitions in organic polycrystals*
 
 
 ## Science Policy
