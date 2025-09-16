@@ -1,4 +1,4 @@
----
+<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/cedcc3d1-6124-40a4-8d93-85ff8ddad25a" />---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -51,10 +51,13 @@ Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electron
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
 Silvia Cristofaro, Dorothée Brandt, Vincent Lemaur, Ki-Hwan Hwang, Ljiljana Fruk, Deepak Venkateshvaran, Luca Muccioli, Silvia Orlandi & Yoann Olivier, **J. Mater. Chem. C** (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
-*Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*
+*Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers* 
 
 Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Mateo T. R. Cervantes, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran  - in revision (2025)  
 *Measuring the molecular origins of stiffness in organic semiconductors*  
+
+Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2025)  
+*Evolution of nanoscale mechanical tortuosity across thermal phase transitions in a semiconducting polymer*
 
 
 ## Science Policy
