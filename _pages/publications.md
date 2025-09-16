@@ -56,17 +56,17 @@ Silvia Cristofaro, Dorothée Brandt, Vincent Lemaur, Ki-Hwan Hwang, Ljiljana Fru
 Ki-Hwan Hwang, Dorothée Brandt, Silvia Cristofaro, Cameron J. Nickerson, Federico Modesti, Mindaugas Gicevicius, Mateo T. R. Cervantes, Martina Volpi, Leszek J. Spalek, Luca Muccioli, Per M. Claesson, Ljiljana Fruk, Yves Geerts, Guillaume Schweicher, Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran (2025)  
 *Measuring the molecular origins of stiffness in organic semiconductors*  
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/DNTT-mechanics-illustration.png" width="650">
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/DNTT-mechanics-illustration.png" width="700">
 
 Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2025)  
 *Evolution of nanoscale mechanical tortuosity across thermal phase transitions in a semiconducting polymer*  
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/PBTTT-stiffness-uniformity.png" width="650">
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/PBTTT-stiffness-uniformity.png" width="700">
 
 Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, Leszek J. Spalek, Guillaume Schweicher, Deepak Venkateshvaran, Yves Geerts (2026)  
 *Nanomechanical mapping of strain evolution at the cooperative phase transition in ditBu-BTBT polycrystals*
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/ditBu-BTBT-illustration.png" width="650">
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/ditBu-BTBT-illustration.png" width="700">
 
 
 ## Science Policy
