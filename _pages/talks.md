@@ -8,7 +8,10 @@ author_profile: true
 
 <img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/1P9A4270.jpg" width="250" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
-The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on organic semiconductors, thermoelectrics, nanomechanics, and more recently, on Science Policy in Government.
+The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on organic semiconductors, thermoelectrics, nanomechanics, and more recently, on Science Policy in Government.  
+
+**Bangalore, India, September 2025** <br /> Invited Lecture at JNCASR <br /> _In organic semiconductors, is charge transport 
+intrinsically limited by stiffness?_ <br /> Invitation from Prof KS Narayan  
 
 **Kyoto, Japan, March 2025** <br /> Invited Lecture at the [International Conference on Condensed Conjugation](https://x-con.jp/activity/event/international-conference-on-condensed-conjugation) <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
 
