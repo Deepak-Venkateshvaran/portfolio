@@ -13,7 +13,7 @@ Welcome. Very happy to have you visit.
 
 My name is Deepak Venkateshvaran. I use these webpages to document my dominant professional interests.  
 
-I am an academic at the University of Cambridge with responsibilities that span research, teaching, and institutional leadership. 
+I am an academic at the University of Cambridge with responsibilities that span research, teaching, institutional leadership, and policy.
 
 **Research**   
 I hold a Royal Society University Research Fellowship at the Cavendish Laboratory where we implement novel force mapping techniques for the measurement of nanoscale mechanics. We study multifunctional soft systems from organic semiconductors to biological matter.
