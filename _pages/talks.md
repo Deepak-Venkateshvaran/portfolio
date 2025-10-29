@@ -12,7 +12,7 @@ The following is a list of invited and plenary talks delivered since January 202
 
 **Brussels, Belgium, November 2025** <br /> Seminar at the JSPS-FNRS Collaborative Meeting <br /> _Deformation potentials and nanoscale elastic measurements in molecular crystals_ <br /> Invitation from Dr Guillaume Schweicher  
 
-**Cambridge, United Kingdom, October 2025** <br /> Seminar to the 2025 cohort of Chevening Gurukul Fellows <br /> _Advanced Materials Innovation and the UK-India Technology Security Initiative_ <br /> Invitation from program directors at Somerville College Oxford
+**Cambridge, United Kingdom, October 2025** <br /> Seminar to the 2025 cohort of Chevening Gurukul Fellows <br /> _Advanced Materials Innovation and the UK-India Technology Security Initiative_ <br /> Invitation from program directors at Oxford University
 
 **Bangalore, India, September 2025** <br /> Invited Lecture at JNCASR <br /> _In organic semiconductors, is charge transport 
 intrinsically limited by stiffness?_ <br /> Invitation from Prof KS Narayan  
