@@ -63,7 +63,7 @@ Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. 
 
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/PBTTT-stiffness-uniformity.png" width="750">
 
-Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, Leszek J. Spalek, Guillaume Schweicher, Deepak Venkateshvaran, Yves Geerts (2026)  
+Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, Leszek J. Spalek, ... Guillaume Schweicher, Deepak Venkateshvaran (2026)  
 *Nanomechanical mapping of strain evolution at the cooperative phase transition in ditBu-BTBT polycrystals*
 
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/ditBu-BTBT-illustration.png" width="750">
