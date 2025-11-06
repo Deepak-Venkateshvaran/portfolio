@@ -12,7 +12,7 @@ author_profile: true
 My work broadly focuses on understanding the fundamentals and applications of molecular semiconductors.  I implement new precision measurement techniques and fabricate prototype devices to this end. My work has translational impact in discussions around advanced materials policy in UK Government. Below is a selection of key publications in which I played a major role.  
 
 
-### Thermoelectrics
+## Thermoelectrics
 
 Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014) [article](https://www.nature.com/articles/nature13854)  
 *World's first demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
@@ -30,7 +30,7 @@ Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (
 *Interpretation and unification of the thermoelectric properties in organic semiconductors based on polarons* 
  
 
-### Spintronics  
+## Spintronics  
 
 Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.092405)  
 *Discovery of a universal scaling behaviour in the anomalous Hall effect in magnetic oxides*  
@@ -42,7 +42,7 @@ Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019
 *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
 
 
-### Nanomechanics
+## Nanomechanics
 
 Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *World's first demonstration of ultrahigh contrast nanomechanics in an organic polymer film*  
@@ -63,7 +63,7 @@ Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, ... Guillaume Schweicher, Deepak
 *Nanomechanical mapping of strain evolution at the cooperative phase transition in ditBu-BTBT polycrystals*  
 
 
-### Science Policy
+## Science Policy
 
 Deepak Venkateshvaran, **DSIT Internal Paper** (2024)   
 *Battery-free Energy - Harvesting clean energy from ambient sources*  
