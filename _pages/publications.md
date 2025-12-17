@@ -16,6 +16,7 @@ My work broadly focuses on understanding the fundamentals and applications of mo
 
 Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014) [article](https://www.nature.com/articles/nature13854)  
 *World's first demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
+<code style="color : green">electronics</code> <code style="color : red">thermoelectrics</code>
 
 Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) [article](https://pubs.aip.org/aip/apm/article/2/3/032102/120208/Field-effect-modulated-Seebeck-coefficient)  
 *Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
