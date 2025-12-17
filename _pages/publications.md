@@ -10,8 +10,8 @@ author_profile: true
 
 
 My work broadly focuses on understanding the fundamentals and applications of semiconductors such as small molecules, polymers and oxides. I implement new precision measurement techniques and fabricate prototype devices to this end.  
-Research themes include <code style="color : red">thermoelectrics</code>, <code style="color : green">charge transport</code>, <code style="color : blue">spintronics</code> and <code style="color : darkorange">nanomechanics</code>.  
-My work has translational impact in discussions around advanced materials policy in UK Government.  
+Research themes include <code style="color : red">thermoelectrics</code>, <code style="color : green">charge transport</code>, <code style="color : blue">spintronics</code>, and <code style="color : darkorange">nanomechanics</code>.  
+My work has translational impact on <code style="color : purple">science policy</code> in UK Government.  
 
 Below are a selection of key publications in which I played a major role.  
 
@@ -67,7 +67,7 @@ Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, ... Guillaume Schweicher, Deepak
 *Nanomechanical mapping of strain evolution at the cooperative phase transition in ditBu-BTBT polycrystals*  
 
 
-<code style="color : gold">science policy</code>  
+<code style="color : purple">science policy</code>  
 
 Deepak Venkateshvaran, **DSIT Internal Paper** (2024)   
 *Battery-free Energy - Harvesting clean energy from ambient sources*  
