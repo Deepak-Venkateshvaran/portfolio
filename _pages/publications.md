@@ -9,7 +9,10 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-My work broadly focuses on understanding the fundamentals and applications of molecular semiconductors.  I implement new precision measurement techniques and fabricate prototype devices to this end. My work has translational impact in discussions around advanced materials policy in UK Government. Below is a selection of key publications in which I played a major role.  
+My work broadly focuses on understanding the fundamentals and applications of semiconductors such as small molecules, polymers and oxides. The research themes we study are <code style="color : green">charge transport</code>, <code style="color : red">thermoelectrics</code>, and  <code style="color : darkorange">nanomechanics</code>.  
+I implement new precision measurement techniques and fabricate prototype devices to this end. My work has translational impact in discussions around advanced materials policy in UK Government.  
+
+Below are a selection of key publications in which I played a major role.  
 
 
 ## Thermoelectrics
@@ -39,15 +42,15 @@ Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (
 
 Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.092405)  
 *Discovery of a universal scaling behaviour in the anomalous Hall effect in magnetic oxides*  
-<code style="color : green">charge transport</code> <code style="color : aqua">spintronics</code>  
+<code style="color : green">charge transport</code> <code style="color : blue">spintronics</code>  
 
 Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.134405)  
 *A comprehensive study of the magnetic properties in oxide thin films and how they can be tailored*  
-<code style="color : green">charge transport</code> <code style="color : aqua">spintronics</code>  
+<code style="color : green">charge transport</code> <code style="color : blue">spintronics</code>  
 
 Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
 *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*  
-<code style="color : green">charge transport</code> <code style="color : aqua">spintronics</code>  
+<code style="color : green">charge transport</code> <code style="color : blue">spintronics</code>  
 
 
 ## Nanomechanics
