@@ -9,7 +9,8 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-My work focuses on understanding the physics of disordered semiconductors: small molecules, polymers, hybrids, and the like. We implement precision measurement techniques and fabricate prototype devices. Research themes include <code style="color : red">thermoelectrics</code>, <code style="color : green">charge transport</code>, <code style="color : blue">spintronics</code>, and <code style="color : darkorange">nanomechanics</code>. My work has translational impact on <code style="color : purple">science policy</code> in UK Government.  
+My work focuses on understanding the physics of disordered semiconductors: small molecules, polymers, hybrids, and the like. We implement precision measurement techniques and fabricate prototype devices. Research themes include <code style="color : red">thermoelectrics</code>, <code style="color : green">charge transport</code>, <code style="color : blue">spintronics</code>, and <code style="color : darkorange">nanomechanics</code>.  
+My work has translational impact on <code style="color : purple">science policy</code> in UK Government.  
 
 Here is a selection of key publications where I played a major role.  
 
