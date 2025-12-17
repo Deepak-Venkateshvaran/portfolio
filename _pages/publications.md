@@ -9,11 +9,10 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-My work broadly focuses on understanding the fundamentals and applications of semiconductors such as small molecules, polymers and oxides. I implement new precision measurement techniques and fabricate prototype devices to this end.  
-Research themes include <code style="color : red">thermoelectrics</code>, <code style="color : green">charge transport</code>, <code style="color : blue">spintronics</code>, and <code style="color : darkorange">nanomechanics</code>.  
+My work broadly focuses on understanding the fundamentals and applications of semiconductors such as small molecules, polymers, hybrids, and oxides. We implement new precision measurement techniques and fabricate prototype devices to this end. Research themes include <code style="color : red">thermoelectrics</code>, <code style="color : green">charge transport</code>, <code style="color : blue">spintronics</code>, and <code style="color : darkorange">nanomechanics</code>.  
 My work has translational impact on <code style="color : purple">science policy</code> in UK Government.  
 
-Below are a selection of key publications in which I played a major role.  
+Here is a selection of key publications where I played a major role.  
 
 
 <code style="color : red">thermoelectrics</code> + <code style="color : green">charge transport</code>
