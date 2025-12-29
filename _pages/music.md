@@ -11,8 +11,6 @@ author_profile: true
 
 I have played the Indian *tabla* for several decades, and routinely perform with well known world musicians like [Catherine Groom](https://www.mus.cam.ac.uk/directory/catherine-groom), [Hibiki Ichikawa](https://hibikishamisen.com/), and [Hidé Takemoto](https://www.hideguitar.com/). 
 
-Hidé Takemoto and I run a music-art project called [Fingers HQ](https://www.youtube.com/@FingersHQ). The goal of Fingers HQ is to highlight the intricate finger action on the tabla and the guitar. It is this finger action that releases sound one hears as music.
-
 
 ## Tabla and Physics
 
