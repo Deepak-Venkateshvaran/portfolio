@@ -56,7 +56,7 @@ Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electron
 Silvia Cristofaro, Dorothée Brandt, Vincent Lemaur, Ki-Hwan Hwang, Ljiljana Fruk, Deepak Venkateshvaran, Luca Muccioli, Silvia Orlandi & Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
-Ki-Hwan Hwang, Dorothée Brandt, ... Yoann Olivier, Erin R. Johnson, Deepak Venkateshvaran, **Nature Communications** (2026) - in press  
+Ki-Hwan Hwang, Dorothée Brandt, ... Erin R. Johnson, Deepak Venkateshvaran, **Nature Communications** (2026) - in press  
 *Measuring the molecular origins of stiffness in organic semiconductors*  
 
 Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2026)  
