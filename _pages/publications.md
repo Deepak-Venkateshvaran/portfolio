@@ -26,7 +26,7 @@ Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) [article](htt
 Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
-Georg Ulrich, ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
+Georg Ulrich ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Electrical detection of fast heat transport through molecular films under vibrational resonance*  
 
 Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
@@ -47,16 +47,16 @@ Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019
 
 <code style="color : darkorange">nanomechanics</code> + <code style="color : green">charge transport</code> 
 
-Illia Dobryden, V. V. Korolkov, ... & Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
+Illia Dobryden, V. V. Korolkov ... Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *World's first demonstration of ltrahigh contrast nanomechanics in an organic polymer film*  
 
-Vishal Panchal, Illia Dobryden, ... & Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
+Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
 Silvia Cristofaro, Dorothée Brandt, Vincent Lemaur, Ki-Hwan Hwang, Ljiljana Fruk, Deepak Venkateshvaran, Luca Muccioli, Silvia Orlandi & Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
-Ki-Hwan Hwang, Dorothée Brandt, ... Deepak Venkateshvaran, **Nature Communications** (2026) - in press  
+Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** (2026) - in press  
 *Measuring the molecular origins of stiffness in organic semiconductors*  
 
 Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2026)  
