@@ -17,7 +17,7 @@ The following is a list of invited and plenary talks delivered since January 202
 **Bangalore, India, September 2025** <br /> Invited Lecture at JNCASR <br /> _In organic semiconductors, is charge transport 
 intrinsically limited by stiffness?_ <br /> Invitation from Prof KS Narayan  
 
-**Kyoto, Japan, March 2025** <br /> Invited Lecture at the [International Conference on Condensed Conjugation](https://x-con.jp/activity/event/international-conference-on-condensed-conjugation) <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
+**Kyoto, Japan, March 2025** <br /> Invited Lecture at the International Conference on Condensed Conjugation <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
 
 **Hong Kong, March 2025** <br /> Invited Lecture at the [Department of Physics, Hong Kong Baptist University](https://physics.hkbu.edu.hk/news/physics-seminar-nanomechanics-of-p-conjugated-molecular-semiconductors) <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Invitation from Prof Shu-Jen Wang
 
