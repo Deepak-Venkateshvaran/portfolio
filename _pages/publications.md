@@ -26,7 +26,7 @@ Here is a selection of key publications where I played a major role.
 * Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
-* Georg Ulrich ... Bernd Kästner, Jörg Wunderlich & Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
+* Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Electrical detection of fast heat transport through molecular films under vibrational resonance*  
 
 * Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
