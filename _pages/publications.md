@@ -48,7 +48,7 @@ Here is a selection of key publications where I played a major role.
 <code style="color : darkorange">nanomechanics</code> + <code style="color : green">charge transport</code> 
 
 * Illia Dobryden, V. V. Korolkov ... Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
-*World's first demonstration of ltrahigh contrast nanomechanics in an organic polymer film*  
+*World's first demonstration of ultrahigh contrast nanomechanics in an organic polymer film*  
 
 * Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
