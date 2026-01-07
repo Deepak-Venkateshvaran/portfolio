@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/Lab-Life.png" width="1000" style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px; padding-top: 10px;">
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/Lab-Life.png" width="1000" style="padding-right: 1px; padding-left: 1px; padding-bottom: 1px; padding-top: 1px;">
 
 My research focuses on understanding the link between mechanical properties and electronic properties in organic semiconductors and other energy materials through precision measurements on the nanoscale. We also attempt to understand how elasticity in molecular materials is built up from the scale of a single molecule, when packed together in the solid state.  
 
