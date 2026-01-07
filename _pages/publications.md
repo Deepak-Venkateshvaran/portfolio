@@ -53,7 +53,7 @@ Here is a selection of key publications where I played a major role.
 * Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*  
 
-* Silvia Cristofaro, Dorothée Brandt, Vincent Lemaur, Ki-Hwan Hwang, Ljiljana Fruk, Deepak Venkateshvaran, Luca Muccioli, Silvia Orlandi & Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
+* Silvia Cristofaro ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) - [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
 * Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** (2026) - in press  
