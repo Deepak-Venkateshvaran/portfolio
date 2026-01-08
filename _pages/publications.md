@@ -62,9 +62,6 @@ Here is a selection of key publications where I played a major role.
 * Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2026)  
 *Visualisation of nanoscale mechanical tortuosity in semiconducting polymers across thermal phase transitions*  
 
-* Luca Catalano, Stefano Checchia, Ki-Hwan Hwang, ... Guillaume Schweicher, Deepak Venkateshvaran (2026)  
-*Nanomechanical mapping of strain evolution at the cooperative phase transition in ditBu-BTBT polycrystals*  
-
 
 <code style="color : purple">science policy</code>  
 
