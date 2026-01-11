@@ -5,10 +5,9 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
-_Trust the intelligence of the lifeforce that animates us.  
-An intelligence that has produced the astonishing resilience that is you.  
-Embrace the mystery of your being.  
-You are an aperture through which the universe is experiencing itself - George Thompson_
+_Trust the intelligence of the lifeforce that animates you. Embrace the mystery of your being. - George Thompson_  
+
+_Your fears are the beacons that light the path to freedom - Peter Crone_
 
 
 The societies we grow up in shape the way we think. Our early life's experience moulds how we emotionally experience the world. The people we grew up with hand us a rule book on how life is lived. Most of our thoughts and opinions are not really our own. They are planted into us throughout our lives. Guardians, gurus, peers, and the media. They all play a role in how we are programmed. As young people, we have little ability to influence our way of thinking. Later in life, our drives, values, and emotional patterns constitute our assumed personality. 
