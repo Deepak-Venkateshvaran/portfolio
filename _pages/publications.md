@@ -57,11 +57,14 @@ Here is a selection of key publications where I played a major role.
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
 * Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
-*Measuring the molecular origins of stiffness in organic semiconductors*  
+*Measuring the molecular origins of stiffness in organic semiconductors*
+
+<!--
 
 * Ki-Hwan Hwang, Shun-ichiro Ito, Osnat Z. Arteaga, Leszek J. Spalek, Mateo T. R. Cervantes, Hio-Ieng Un, Guillaume Schweicher, Ljiljana Fruk, Derya Baran, Mariano Campoy-Quiles, Taishi Takenobu, Deepak Venkateshvaran (2026)  
 *Visualisation of nanoscale mechanical tortuosity in semiconducting polymers across thermal phase transitions*  
 
+-->
 
 <code style="color : purple">science policy</code>  
 
