@@ -56,7 +56,7 @@ Here is a selection of key publications where I played a major role.
 * Silvia Cristofaro ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
-* Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
+* Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
 *Measuring the molecular origins of stiffness in organic semiconductors*
 
 <!--
