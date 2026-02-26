@@ -22,7 +22,7 @@ Beyond electronically active materials, we collaborate closely with [Prof Ljilja
 
 My work is funded in most part through research grants I hold from the Royal Society for which I am deeply grateful.
 
-Since 2024, I jointly run a new program on molecular thermoelectrics with [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/) at the ULB in Belgium and with [Prof Kazuo Takimiya](https://cems.riken.jp/en/laboratory/emfrg) at RIKEN in Japan. The program was seed funded by the Wiener Anspach Foundation.
+Since 2024, I jointly run a new program on molecular thermoelectrics with [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/) at ULB in Belgium and [Prof Kazuo Takimiya](https://cems.riken.jp/en/laboratory/emfrg) at RIKEN in Japan. The program was seed funded by the Wiener Anspach Foundation.
 
 A small part of my research program is completely blue skies. One example of this is to treat nanoscale topography information topologically, and apply novel tools such as Topological Data Analysis (TDA) and Geometric Data Analysis (GDA) to evaluate atomic force microscopy images. This work is funded in part by the Royal Society and in part through UNAM in Mexico. It is conducted together with [Prof Pablo Padilla](https://mym.iimas.unam.mx/pablo/index.html).
 
