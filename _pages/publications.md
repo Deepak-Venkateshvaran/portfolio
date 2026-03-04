@@ -57,7 +57,8 @@ Here is a selection of key publications where I played a major role.
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
 * Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
-*Measuring the molecular origins of stiffness in organic semiconductors* [press release](https://www.cam.ac.uk/research/news/what-does-flexibility-actually-look-like)
+*Measuring the molecular origins of stiffness in organic semiconductors* [press release](https://www.cam.ac.uk/research/news/what-does-flexibility-actually-look-like)  
+Article chosen among the Editors' Highlights; a rolling showcase of the 50 best papers published.
 
 <!--
 
