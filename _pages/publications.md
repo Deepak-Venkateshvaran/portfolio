@@ -16,24 +16,30 @@ Our work has translational impact on science policy in UK Government.
 Below is a selection of key publications where I played a major role.  
 
 
-* Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
+* K.-H. Hwang, D. Brandt, S. Cristofaro, C. J. Nickerson, F. Modesti, M. Gicevičius, M. T. R. Cervantes, M. Volpi, L. J. Spalek, L. Muccioli, P. M. Claesson, L. Fruk, Y. Geerts, G. Schweicher, Y. Olivier, E. R. Johnson & **D. Venkateshvaran**  
 *Measuring the molecular origins of stiffness in organic semiconductors* [press release](https://www.cam.ac.uk/research/news/what-does-flexibility-actually-look-like)  
+**Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
 Article chosen among the Editors' Highlights; a rolling showcase of the 50 best papers published.  
 
-* Silvia Cristofaro ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
+* S. Cristofaro, D. Brandt, V. Lemaur, K.-H. Hwang, L. Fruk, **D. Venkateshvaran**, L. Muccioli, S. Orlandi & Y. Olivier   
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
+**J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 
-* Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
-*Interpretation and unification of the thermoelectric properties in organic semiconductors based on polarons*  
+* **D. Venkateshvaran**, M. T. R. Cervantes, L. J. Spalek, K.-H. Hwang, K. Pudzs, M. Rutkis, G. Schweicher & P. Padilla-Longoria  
+*Understanding the Thermoelectric Transport Properties of Organic Semiconductors through the Perspective of Polarons*  
+**Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
 
-* Illia Dobryden, V. V. Korolkov ... Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
-*World's first demonstration of ultrahigh contrast nanomechanics in an organic polymer film*
+* I. Dobryden, V. V. Korolkov, V. Lemaur, M. Waldrip, H.-I. Un, D. Simatos, L. J. Spalek, O. D. Jurchescu, Y. Olivier, P. M. Claesson & **D. Venkateshvaran**  
+*Dynamic self-stabilization in the electronic and nanomechanical properties of an organic polymer semiconductor*  
+**Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 
-* Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
-*Measurements of nanoscale stiffness mapping and modulation in polycrystalline polymer films*
+* V. Panchal, I. Dobryden, U. D. Hangen, D. Simatos, L. J. Spalek, I. E. Jacobs, G. Schweicher, P. M. Claesson & **D. Venkateshvaran**  
+*Mechanical Properties of Organic Electronic Polymers on the Nanoscale*  
+**Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)
 
-* Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
-*Electrical detection of fast heat transport through molecular films under vibrational resonance*
+* G. Ulrich, E. Pfitzner, A. Hoehl, J.-W. Liao, O. Zadvorna, G. Schweicher, H. Sirringhaus, J. Heberle, B. Kästner, J. Wunderlich & **D. Venkateshvaran**  
+*Thermoelectric nanospectroscopy for the imaging of molecular fingerprints*  
+**Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)    
 
 * Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
 *A broad-spectrum study of the difficulties in achieving all-electrical spin injection into organic semiconductors*
