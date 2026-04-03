@@ -32,20 +32,20 @@ Article chosen among the Editors' Highlights; a rolling showcase of the 50 best 
 * Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Mechanical Properties of Organic Electronic Polymers on the Nanoscale*  
 
-* Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)    
+* Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Thermoelectric nanospectroscopy for the imaging of molecular fingerprints*  
 
 * Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
-*Long spin diffusion lengths in doped conjugated polymers due to enhanced exchange coupling*
+*Long spin diffusion lengths in doped conjugated polymers due to enhanced exchange coupling*  
 
 * Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
 *Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
 
-* Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) [article](https://pubs.aip.org/aip/apm/article/2/3/032102/120208/Field-effect-modulated-Seebeck-coefficient)  
-*Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
-
 * Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014) [article](https://www.nature.com/articles/nature13854)  
 *World's first demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
+
+* Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) [article](https://pubs.aip.org/aip/apm/article/2/3/032102/120208/Field-effect-modulated-Seebeck-coefficient)  
+*Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
 
 * Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.134405)  
 *A comprehensive study of the magnetic properties in oxide thin films and how they can be tailored*  
