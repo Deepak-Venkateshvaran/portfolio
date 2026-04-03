@@ -7,7 +7,7 @@ author_profile: true
 
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Lab-Life.png" width="1000" style="padding-right: 1px; padding-left: 1px; padding-bottom: 1px; padding-top: 1px;">
 
-**We study the mechanical properties in disordered semiconductors on the nanoscale.**  
+**We study the mechanical properties of disordered semiconductors on the nanoscale.**  
 
 On an applied level, we implement cutting-edge force mapping techniques using atomic force microscopes. These techniques are based on multifrequency intermodulation, higher eigenmodes, and quasi-static nanoindentation. We pioneered the visualisation of high-contrast elasticity measurements on the scale of a few nanometres, and have measured elastic properties arising from individual molecules that compose molecular lattices. Projects that we undertake include elastic property evolution in molecular semiconductors across temperature-induced phase transitions, at cooperative phase transitions, at reduced dimensions, at the limits of charge conduction, and through prototype microfabricated devices. 
 
