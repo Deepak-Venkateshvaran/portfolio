@@ -9,9 +9,9 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-Our work focuses on understanding the physics of disordered semiconductors such as small molecules, polymers, and organic-inorganic hybrids. 
+Broadly, we study the physics of disordered semiconductors.  
 We implement precision nanoscale measurement techniques and fabricate prototype devices.  
-My work has translational impact on science policy in UK Government.  
+Our work has translational impact on science policy in UK Government.  
 
 Below is a selection of key publications where I played a major role.  
 
