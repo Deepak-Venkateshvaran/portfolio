@@ -24,13 +24,13 @@ Article chosen among the Editors' Highlights; a rolling showcase of the 50 best 
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
 * Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
-*Thermoelectric Transport Properties of Organic Semiconductors through the Perspective of Polarons*  
+*Thermoelectric transport properties of organic semiconductors through the perspective of polarons*  
 
 * Illia Dobryden, Vladimir V. Korolkov ... Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *Dynamic self-stabilization in the electronic and nanomechanical properties of an organic polymer semiconductor*  
 
 * Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
-*Mechanical Properties of Organic Electronic Polymers on the Nanoscale*  
+*Mechanical properties of organic electronic polymers on the nanoscale*  
 
 * Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Thermoelectric nanospectroscopy for the imaging of molecular fingerprints*  
