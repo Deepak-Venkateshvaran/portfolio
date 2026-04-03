@@ -20,11 +20,11 @@ Below is a selection of key publications where I played a major role.
 *Measuring the molecular origins of stiffness in organic semiconductors* [press release](https://www.cam.ac.uk/research/news/what-does-flexibility-actually-look-like)  
 Article chosen among the Editors' Highlights; a rolling showcase of the 50 best papers published.  
 
-* Silvia Cristofaro, Dorothée Brandt ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
+* Silvia Cristofaro ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
 
 * Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
-*Understanding the Thermoelectric Transport Properties of Organic Semiconductors through the Perspective of Polarons*  
+*Thermoelectric Transport Properties of Organic Semiconductors through the Perspective of Polarons*  
 
 * Illia Dobryden, Vladimir V. Korolkov ... Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *Dynamic self-stabilization in the electronic and nanomechanical properties of an organic polymer semiconductor*  
