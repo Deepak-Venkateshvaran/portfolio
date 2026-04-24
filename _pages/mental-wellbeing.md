@@ -5,8 +5,6 @@ permalink: /mental-wellbeing/
 author_profile: true
 ---
 
-_Trust the intelligence of the lifeforce that animates you. Embrace the mystery of your being. - George Thompson_  
-
 _Your fears are the beacons that light the path to freedom - Peter Crone_
 
 
