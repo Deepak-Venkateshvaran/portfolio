@@ -10,6 +10,8 @@ author_profile: true
 
 The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on organic semiconductors, thermoelectrics, nanomechanics, and more recently, on Science Policy in Government.  
 
+**Chennai, India, April 2026** <br /> Invited Lecture at IIT Madras <br /> _Molecular Nanomechanics_ <br /> Invitation from Prof Prem Bisht   
+
 **Brussels, Belgium, November 2025** <br /> Seminar at the JSPS-FNRS-FWA Collaborative Meeting <br /> _Deformation potentials and nanoscale elastic measurements in molecular crystals_ <br /> Invitation from Dr Guillaume Schweicher  
 
 **Cambridge, United Kingdom, October 2025** <br /> Seminar to the 2025 cohort of Chevening Gurukul Fellows <br /> _Advanced Materials Innovation and the UK-India Technology Security Initiative_ <br /> Invitation from program directors at Oxford University
