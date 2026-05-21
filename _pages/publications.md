@@ -26,7 +26,7 @@ Selected for the journal's Editors' Highlights, a rolling showcase of its 50 bes
 * Illia Dobryden, Vladimir V. Korolkov ... Deepak Venkateshvaran†, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *Dynamic self-stabilization in the electronic and nanomechanical properties of an organic polymer semiconductor*  
 
-* Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran†, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
+* Vishal Panchal, Illia Dobryden, Deepak Venkateshvaran†, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Mapping the mechanical properties of organic electronic polymers on the nanoscale*  
 
 * Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
