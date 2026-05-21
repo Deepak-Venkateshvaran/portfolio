@@ -48,7 +48,7 @@ Selected for the journal's Editors' Highlights, a rolling showcase of its 50 bes
 *Tuning the magnetic properties of magnetic oxide thin films*  
 
 * Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.092405)  
-*Universal scaling of the anomalous Hall effect in magnetic oxidess*  
+*Universal scaling of the anomalous Hall effect in magnetic oxides*  
 
 <!--
 
