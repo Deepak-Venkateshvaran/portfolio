@@ -30,4 +30,4 @@ Since 2024, I have jointly run a program on molecular thermoelectrics with [Dr G
 A small part of the program is exploratory. One example treats nanoscale topography topologically, applying Topological Data Analysis (TDA) and Geometric Data Analysis (GDA) to atomic force microscopy images. This work, funded in part by UNAM in Mexico, is conducted together with [Prof Pablo Padilla](https://mym.iimas.unam.mx/pablo/index.html).
 
 **Funding**  
-My work is funded in most part through multiple research grants I hold from the Royal Society, for which I am deeply grateful.
+The program is supported by multiple research grants from the Royal Society, for which I am deeply grateful.
