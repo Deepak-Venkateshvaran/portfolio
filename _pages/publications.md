@@ -9,48 +9,46 @@ author_profile: true
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-screenshot.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-electronics-cover.png" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/Cover_Image_ADI_Nov_2024.jpg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/AEM-cover.jpeg" width="180" height="234"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/nature-communications-screenshot.png" width="180" height="234">  
 
 
-Broadly, we study the physics of disordered semiconductors using precision nanoscale measurements and prototype devices. We investigate the mechanical properties, thermal properties, electrical properties, as well as their interrelationships, in a wide variety of materials used for energy applications.  
-Our work has translational impact on science policy in UK Government.  
+Broadly, we study the physics of disordered semiconductors using precision nanoscale measurements and prototype devices. We investigate the mechanical, thermal, and electrical properties of these materials — and the way those properties interrelate — across a wide range of systems used for energy applications. Our work also feeds into UK Government science policy.  
 
-Below is a selection of key publications where I played a major role.  
+Below is a selection of key publications where I played a major role. Names in bold are mine; † denotes corresponding author.
 
-
-* Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
+* Ki-Hwan Hwang, Dorothée Brandt ... **Deepak Venkateshvaran**†, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
 *Measuring the molecular origins of stiffness in organic semiconductors* [press release](https://www.cam.ac.uk/research/news/what-does-flexibility-actually-look-like)  
-Article chosen among the Editors' Highlights; a rolling showcase of the 50 best papers published.  
+Selected for the journal's Editors' Highlights, a rolling showcase of its 50 best papers.
 
-* Silvia Cristofaro ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
-*Assessing the influence of nanoscale morphology on the mechanical properties of semiconducting polymers*  
+* Silvia Cristofaro ... **Deepak Venkateshvaran** ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
+*How nanoscale morphology shapes the mechanical properties of semiconducting polymers*  
 
-* Deepak Venkateshvaran *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
-*Thermoelectric transport properties of organic semiconductors through the perspective of polarons*  
+* **Deepak Venkateshvaran**† *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
+*Thermoelectric transport in organic semiconductors viewed through the polaron picture*  
 
-* Illia Dobryden, Vladimir V. Korolkov ... Deepak Venkateshvaran, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
+* Illia Dobryden, Vladimir V. Korolkov ... **Deepak Venkateshvaran**†, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *Dynamic self-stabilization in the electronic and nanomechanical properties of an organic polymer semiconductor*  
 
-* Vishal Panchal, Illia Dobryden ... Deepak Venkateshvaran, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
-*Mechanical properties of organic electronic polymers on the nanoscale*  
+* Vishal Panchal, Illia Dobryden ... **Deepak Venkateshvaran**†, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
+*Mapping the mechanical properties of organic electronic polymers on the nanoscale*  
 
-* Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
+* Georg Ulrich, Emanuel Pfitzner ... **Deepak Venkateshvaran**, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Thermoelectric nanospectroscopy for the imaging of molecular fingerprints*  
 
-* Shu-Jen Wang, Deepak Venkateshvaran *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
+* Shu-Jen Wang, **Deepak Venkateshvaran**† *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
 *Long spin diffusion lengths in doped conjugated polymers due to enhanced exchange coupling*  
 
-* Katharina Broch, Deepak Venkateshvaran *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
-*Pioneering demonstration of bipolar thermoelectric coefficients in a polymer transistor device*  
+* Katharina Broch, **Deepak Venkateshvaran**† *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
+*Bipolar thermoelectric coefficients in a polymer transistor device*  
 
-* Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014) [article](https://www.nature.com/articles/nature13854)  
-*World's first demonstration of how thermoelectric effects can be used to quantify disorder in organic polymers*  
+* **Deepak Venkateshvaran**, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014) [article](https://www.nature.com/articles/nature13854)  
+*Using thermoelectric effects to quantify energetic disorder in organic polymer semiconductors*  
 
-* Deepak Venkateshvaran *et al.*, **APL Materials** 2, 032102 (2014) [article](https://pubs.aip.org/aip/apm/article/2/3/032102/120208/Field-effect-modulated-Seebeck-coefficient)  
-*Novel measurement of voltage modulated thermoelectric effects in a polymer transistor device*  
+* **Deepak Venkateshvaran** *et al.*, **APL Materials** 2, 032102 (2014) [article](https://pubs.aip.org/aip/apm/article/2/3/032102/120208/Field-effect-modulated-Seebeck-coefficient)  
+*Field-effect modulation of the Seebeck coefficient in a polymer transistor*  
 
-* Deepak Venkateshvaran *et al.*, **Physical Review B** 79, 134405 (2009) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.134405)  
-*A comprehensive study of the magnetic properties in oxide thin films and how they can be tailored*  
+* **Deepak Venkateshvaran** *et al.*, **Physical Review B** 79, 134405 (2009) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.134405)  
+*Tuning the magnetic properties of magnetic oxide thin films*  
 
-* Deepak Venkateshvaran *et al.*, **Physical Review B** 78, 092405 (2008) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.092405)  
-*Discovery of a universal scaling behaviour in the anomalous Hall effect in magnetic oxides*  
+* **Deepak Venkateshvaran** *et al.*, **Physical Review B** 78, 092405 (2008) [article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.092405)  
+*Universal scaling of the anomalous Hall effect in magnetic oxidess*  
 
 <!--
 
@@ -63,7 +61,7 @@ Article chosen among the Editors' Highlights; a rolling showcase of the 50 best 
 
 * Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT white paper** (2025)  
 *Two decades of graphene*  
-Commissioned by Caroline France, Head of Technology Growth, UK Government  
+Commissioned by Caroline France, Head of Technology Growth, UK Government
 
 * Deepak Venkateshvaran, **DSIT white paper** (2024)   
 *Battery-free Energy - Harvesting clean energy from ambient sources*  
