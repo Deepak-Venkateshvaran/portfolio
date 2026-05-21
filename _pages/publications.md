@@ -11,31 +11,31 @@ author_profile: true
 
 Broadly, we study the physics of disordered semiconductors using precision nanoscale measurements and prototype devices. We investigate the mechanical, thermal, and electrical properties of these materials — and the way those properties interrelate — across a wide range of systems used for energy applications. Our work also feeds into UK Government science policy.  
 
-Below is a selection of key publications where I played a major role. * denotes corresponding author.
+Below is a selection of key publications where I played a major role. <sup>§</sup> denotes corresponding author.
 
-* Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran*, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
+* Ki-Hwan Hwang, Dorothée Brandt ... Deepak Venkateshvaran<sup>§</sup>, **Nature Communications** 17, 1621 (2026) [article](https://www.nature.com/articles/s41467-026-68328-0)  
 *Measuring the molecular origins of stiffness in organic semiconductors* [press release](https://www.cam.ac.uk/research/news/what-does-flexibility-actually-look-like)  
 Selected for the journal's Editors' Highlights, a rolling showcase of its 50 best papers.
 
 * Silvia Cristofaro ... Deepak Venkateshvaran ... Yoann Olivier, **J. Mater. Chem. C** 13, 15506 (2025) [invited article](https://pubs.rsc.org/en/content/articlelanding/2025/tc/d5tc01620g)  
 *How nanoscale morphology shapes the mechanical properties of semiconducting polymers*  
 
-* Deepak Venkateshvaran* *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
+* Deepak Venkateshvaran<sup>§</sup> *et al.*, **Advanced Devices & Instrumentation** 5, 0067 (2024) [invited article](https://spj.science.org/doi/10.34133/adi.0067)  
 *Thermoelectric transport in organic semiconductors viewed through the polaron picture*  
 
-* Illia Dobryden, Vladimir V. Korolkov ... Deepak Venkateshvaran*, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
+* Illia Dobryden, Vladimir V. Korolkov ... Deepak Venkateshvaran<sup>§</sup>, **Nature Communications** 13, 3076 (2022) [article](https://www.nature.com/articles/s41467-022-30801-x)  
 *Dynamic self-stabilization in the electronic and nanomechanical properties of an organic polymer semiconductor*  
 
-* Vishal Panchal, Illia Dobryden, Deepak Venkateshvaran*, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
+* Vishal Panchal, Illia Dobryden, Deepak Venkateshvaran<sup>§</sup>, **Advanced Electronic Materials** 8, 2101019 (2022) [article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101019)  
 *Mapping the mechanical properties of organic electronic polymers on the nanoscale*  
 
 * Georg Ulrich, Emanuel Pfitzner ... Deepak Venkateshvaran, **Nanophotonics** 9(14), 4347 (2020) [article](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2020-0316/html?lang=en)  
 *Thermoelectric nanospectroscopy for the imaging of molecular fingerprints*  
 
-* Shu-Jen Wang, Deepak Venkateshvaran* *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
+* Shu-Jen Wang, Deepak Venkateshvaran<sup>§</sup> *et al.*, **Nature Electronics** 2, 98 (2019) [article](https://www.nature.com/articles/s41928-019-0222-5)  
 *Long spin diffusion lengths in doped conjugated polymers due to enhanced exchange coupling*  
 
-* Katharina Broch, Deepak Venkateshvaran* *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
+* Katharina Broch, Deepak Venkateshvaran<sup>§</sup> *et al.*, **Advanced Electronic Materials** 3, 1700225 (2017) [invited article](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.201700225)  
 *Bipolar thermoelectric coefficients in a polymer transistor device*  
 
 * Deepak Venkateshvaran, Mark Nikolka *et al.*, **Nature** 515, 384–388 (2014) [article](https://www.nature.com/articles/nature13854)  
