@@ -15,7 +15,7 @@ Why does this matter? The materials behind flexible displays, wearable sensors, 
 We implement cutting-edge force mapping using atomic force microscopes, based on multifrequency intermodulation, higher eigenmodes, and quasi-static nanoindentation. We have visualised high-contrast elasticity at the scale of a few nanometres [see Nature Communications 13, 3076 (2022)] and resolved the elastic contribution of individual molecules within a molecular lattice [see Nature Communications 17, 1621 (2026)]. Current projects track how elasticity evolves through temperature-induced and cooperative phase transitions, at reduced dimensions, at the limits of charge conduction, and within prototype microfabricated devices.
 
 **The underlying physics**  
-At a fundamental level, we ask how carrier mobility, conductivity, Seebeck coefficient, and elasticity interlock within multifunctional molecular materials. One framework we have proposed is summarised in the schematic below. 
+At a fundamental level, we are interested in how carrier mobility, electrical conductivity, the Seebeck coefficient, and elasticity interlock within a single multifunctional material — treating mechanics not as a separate engineering concern but as one face of the same underlying physics that sets electronic and thermal transport. One framework we have proposed is summarised in the schematic below.  
 
 <img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
