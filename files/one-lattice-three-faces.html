@@ -1,0 +1,361 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>One phonon bath, three observables</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0A0E1A; --ink2:#0F1426; --ink3:#0C1120; --line:#1E2740; --line2:#2A3552;
+    --bone:#EAEEF8; --mist:#8A93AD; --mist2:#69728C;
+    --violet:#9C8CFF; --cyan:#54D6FF; --amber:#FF9A52;
+    --serif:'Fraunces','Iowan Old Style',Georgia,'Times New Roman',serif;
+    --sans:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+    --mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%;background:var(--ink);color:var(--bone)}
+  body{
+    font-family:var(--sans);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+    height:100vh;overflow:hidden;display:flex;flex-direction:column;
+    padding:clamp(12px,1.8vh,20px) clamp(16px,2.2vw,34px);
+    background:
+      radial-gradient(1100px 540px at 28% -8%, rgba(84,214,255,.05), transparent 60%),
+      radial-gradient(820px 460px at 92% 110%, rgba(255,154,82,.035), transparent 60%),
+      var(--ink);
+  }
+  .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+
+  /* ---- header ---- */
+  .top{flex:0 0 auto;display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:clamp(10px,1.4vh,16px)}
+  .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.2em;color:var(--mist);text-transform:lowercase;margin-bottom:8px;display:flex;align-items:center;gap:10px}
+  .eyebrow::before{content:"";width:24px;height:1px;background:var(--line2)}
+  h1{font-family:var(--serif);font-weight:400;font-size:clamp(25px,3vw,40px);line-height:1.02;letter-spacing:-.015em}
+  h1 em{font-style:italic;color:var(--cyan)}
+  .sub{font-family:var(--sans);color:var(--mist);font-size:15px;max-width:52ch;text-align:right;line-height:1.5}
+  .sub b{color:var(--bone);font-weight:500}
+
+  /* ---- board ---- */
+  .board{flex:1 1 auto;min-height:0;display:grid;grid-template-columns:minmax(310px,1fr) minmax(420px,1.55fr) minmax(370px,1.2fr);gap:clamp(14px,1.6vw,26px)}
+  .col{min-width:0;min-height:0;display:flex;flex-direction:column}
+  .panel-h{font-family:var(--mono);font-size:13px;letter-spacing:.13em;color:var(--mist);margin-bottom:11px;display:flex;align-items:center;gap:10px;flex:0 0 auto}
+  .panel-h::after{content:"";flex:1;height:1px;background:var(--line)}
+
+  /* ladder */
+  .ladder{display:flex;flex-direction:column;flex:0 0 auto}
+  .step{display:grid;grid-template-columns:18px 1fr auto;align-items:center;gap:12px;padding:clamp(4px,0.7vh,9px) 0}
+  .step + .step{border-top:1px solid rgba(30,39,64,.6)}
+  .g{font-family:var(--mono);font-size:14px;color:var(--mist2);text-align:center}
+  .rel{font-family:var(--mono);font-size:13.5px;color:var(--bone);line-height:1.3}
+  .lab{font-family:var(--mono);font-size:11px;color:var(--mist);letter-spacing:.02em;margin-top:2px}
+  .val{font-family:var(--mono);text-align:right;white-space:nowrap}
+  .val b{font-size:19px;font-weight:500}
+  .val span{font-size:11.5px;color:var(--mist);margin-left:5px}
+  .v-mech b{color:var(--violet)} .v-elec b{color:var(--cyan)} .v-therm b{color:var(--amber)} .v-neu b{color:var(--bone)}
+  .step.branch{margin:3px 0;padding:8px 11px;border:1px solid rgba(255,154,82,.22);border-left:2px solid var(--amber);border-radius:0 10px 10px 0;background:rgba(255,154,82,.04)}
+  .step.branch .g{color:var(--amber)}
+  .step.out{margin-top:6px;padding:10px 12px;border:1px solid rgba(84,214,255,.28);border-radius:12px;background:rgba(84,214,255,.05)}
+  .step.out .val b{font-size:22px}
+  .modelnote{margin-top:auto;padding-top:14px;font-family:var(--mono);font-size:11.5px;color:var(--mist);line-height:1.6}
+  .modelnote b{color:var(--bone);font-weight:500}
+
+  /* stages */
+  .stage{flex:1 1 auto;min-height:0;position:relative;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--ink2)}
+  .stage.plot{background:var(--ink3)}
+  canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
+  .ovl{position:absolute;font-family:var(--mono);font-size:13px;letter-spacing:.02em;color:var(--bone);background:rgba(10,14,26,.45);padding:5px 9px;border-radius:8px;border:1px solid var(--line);z-index:2}
+  #u2lab{top:12px;left:12px;color:var(--mist)} #u2lab b{color:var(--bone);font-weight:500}
+  #ltlab{top:12px;right:12px;color:var(--cyan)} #ltlab b{font-weight:500}
+  .pcap{flex:0 0 auto;font-family:var(--mono);font-size:12.5px;color:var(--mist);line-height:1.55;margin-top:10px}
+  .pcap b{color:var(--cyan);font-weight:500}
+
+  /* ---- controls ---- */
+  .controls{flex:0 0 auto;display:flex;flex-direction:column;margin-top:clamp(10px,1.4vh,16px);padding-top:clamp(10px,1.4vh,16px);border-top:1px solid var(--line)}
+  .controls-lead{font-family:var(--mono);font-size:12.5px;letter-spacing:.12em;color:var(--mist);margin-bottom:clamp(8px,1.1vh,14px);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px 16px}
+  .lead-left{display:inline-flex;align-items:center;gap:9px}
+  .credit{letter-spacing:.04em;color:var(--mist)}
+  .credit b{color:var(--bone);font-weight:500}
+  .controls-lead b{color:var(--bone);font-weight:500}
+  .pip{width:9px;height:9px;border-radius:50%;background:var(--cyan);box-shadow:0 0 10px 1px rgba(84,214,255,.7)}
+  .controls-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(18px,2.6vw,48px)}
+  .ctl label{display:flex;justify-content:space-between;align-items:baseline;font-size:15.5px;font-weight:500;margin-bottom:13px}
+  .ctl .val{font-family:var(--mono);font-size:14.5px;color:var(--mist);font-weight:400}
+  .ctl .val b{color:var(--bone);font-weight:500}
+  .ends{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;color:var(--mist2);margin-top:9px}
+
+  input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:8px;background:var(--line2);border-radius:8px;outline:none;cursor:pointer}
+  input[type=range]::-webkit-slider-runnable-track{height:8px;border-radius:8px;background:transparent}
+  input[type=range]::-moz-range-track{height:8px;border-radius:8px;background:transparent}
+  input[type=range]::-moz-range-progress{height:8px;border-radius:8px;background:transparent}
+  input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:24px;height:24px;border-radius:50%;background:var(--bone);border:3px solid var(--ink);margin-top:-8px;cursor:grab;transition:transform .12s}
+  input[type=range]::-moz-range-thumb{width:24px;height:24px;border-radius:50%;background:var(--bone);border:3px solid var(--ink);cursor:grab;transition:transform .12s}
+  #temp::-webkit-slider-thumb{box-shadow:0 0 0 5px rgba(255,154,82,.16),0 0 16px 2px rgba(255,154,82,.55)}
+  #temp::-moz-range-thumb{box-shadow:0 0 0 5px rgba(255,154,82,.16),0 0 16px 2px rgba(255,154,82,.55)}
+  #c44::-webkit-slider-thumb{box-shadow:0 0 0 5px rgba(156,140,255,.16),0 0 16px 2px rgba(156,140,255,.55)}
+  #c44::-moz-range-thumb{box-shadow:0 0 0 5px rgba(156,140,255,.16),0 0 16px 2px rgba(156,140,255,.55)}
+  #jint::-webkit-slider-thumb{box-shadow:0 0 0 5px rgba(84,214,255,.16),0 0 16px 2px rgba(84,214,255,.55)}
+  #jint::-moz-range-thumb{box-shadow:0 0 0 5px rgba(84,214,255,.16),0 0 16px 2px rgba(84,214,255,.55)}
+  input[type=range]:hover::-webkit-slider-thumb,input[type=range]:focus-visible::-webkit-slider-thumb{transform:scale(1.16)}
+  input[type=range]:hover::-moz-range-thumb,input[type=range]:focus-visible::-moz-range-thumb{transform:scale(1.16)}
+  input[type=range]:active::-webkit-slider-thumb{cursor:grabbing}
+  @keyframes thumbPulse{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
+  @media (prefers-reduced-motion:no-preference){
+    input[type=range]:not(:hover):not(:focus)::-webkit-slider-thumb{animation:thumbPulse 2.6s ease-in-out infinite}
+    input[type=range]:not(:hover):not(:focus)::-moz-range-thumb{animation:thumbPulse 2.6s ease-in-out infinite}
+    .pip{animation:thumbPulse 2.6s ease-in-out infinite}
+  }
+
+  @media (max-width:920px),(max-height:640px){
+    body{height:auto;min-height:100vh;overflow:auto}
+    .top{flex-direction:column;align-items:flex-start}
+    .sub{text-align:left}
+    .board{grid-template-columns:1fr;gap:24px}
+    .stage{height:44vh;min-height:300px}
+    .controls-grid{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+  <div class="top">
+    <div>
+      <div class="eyebrow">transient localisation · molecular crystal</div>
+      <h1>One phonon bath, <em>three observables</em></h1>
+    </div>
+    <p class="sub">The soft intermolecular phonons fix the <b>elastic constants</b>, dress the transfer integral as <b>dynamic disorder</b>, and carry the <b>lattice heat</b>. Drive C&#8324;&#8324;, T and J below.</p>
+  </div>
+
+  <div class="board">
+    <!-- LEFT -->
+    <div class="col">
+      <div class="panel-h">mechanistic chain</div>
+      <div class="ladder">
+        <div class="step">
+          <div class="g">&#9679;</div>
+          <div><div class="rel">C&#8324;&#8324; &mdash; shear elastic modulus</div><div class="lab">mechanical face &middot; input</div></div>
+          <div class="val v-mech"><b id="vC44">2.00</b><span>GPa</span></div>
+        </div>
+        <div class="step">
+          <div class="g">&#8595;</div>
+          <div><div class="rel">&#8463;&omega;<sub>sh</sub> &prop; &radic;(C&#8324;&#8324;/&rho;)</div><div class="lab">soft shear phonon</div></div>
+          <div class="val v-neu"><b id="vOmega">5.00</b><span>meV</span></div>
+        </div>
+        <div class="step branch">
+          <div class="g">&#8627;</div>
+          <div><div class="rel">&kappa;<sub>L</sub> &asymp; &#8531;C<sub>v</sub>v<sub>s</sub>&#178;&tau;<sub>ph</sub> &prop; C&#8324;&#8324;/T</div><div class="lab">lattice heat &middot; thermal face</div></div>
+          <div class="val v-therm"><b id="vKappa">0.50</b><span>W m&#8315;&#185;K&#8315;&#185;</span></div>
+        </div>
+        <div class="step">
+          <div class="g">&#8595;</div>
+          <div><div class="rel">&#10216;u&#178;&#10217; = k<sub>B</sub>T / (M&omega;&#178;)</div><div class="lab">thermal displacement</div></div>
+          <div class="val v-neu"><b id="vU2">0.050</b><span>&#197;&#178;</span></div>
+        </div>
+        <div class="step">
+          <div class="g">&#8595;</div>
+          <div><div class="rel">&sigma;<sub>J</sub> = |&part;J/&part;u|&middot;&radic;&#10216;u&#178;&#10217;</div><div class="lab">dynamic disorder (off-diagonal e&ndash;ph)</div></div>
+          <div class="val v-neu"><b id="vSigma">25.0</b><span>meV</span></div>
+        </div>
+        <div class="step">
+          <div class="g">&#8595;</div>
+          <div><div class="rel">&Delta; = &sigma;<sub>J</sub> / J</div><div class="lab">localisation parameter</div></div>
+          <div class="val v-neu"><b id="vDelta">0.31</b><span></span></div>
+        </div>
+        <div class="step">
+          <div class="g">&#8595;</div>
+          <div><div class="rel">L<sub>T</sub>(&Delta;) &mdash; shrinks as &Delta; grows</div><div class="lab">transient localisation length</div></div>
+          <div class="val v-elec"><b id="vLT">2.21</b><span>nm</span></div>
+        </div>
+        <div class="step out">
+          <div class="g">&#8595;</div>
+          <div><div class="rel">&mu; = eL<sub>T</sub>&#178; / (2k<sub>B</sub>T&tau;), &tau;&#8764;&#8463;/(&#8463;&omega;<sub>sh</sub>)</div><div class="lab">charge mobility &middot; electronic face</div></div>
+          <div class="val v-elec"><b id="vMu">7.16</b><span>cm&#178;V&#8315;&#185;s&#8315;&#185;</span></div>
+        </div>
+      </div>
+      <p class="modelnote"><b>Model.</b> Semiclassical TLT (D = L<sub>T</sub>&#178;/(2&tau;), &mu; = eD/(k<sub>B</sub>T)). Stiffening C&#8324;&#8324; lifts &mu; and &kappa;<sub>L</sub> together &mdash; not independent. Prefactors representative; the dependences are the content. Regime &sigma;<sub>J</sub>&#8764;J.</p>
+    </div>
+
+    <!-- CENTER -->
+    <div class="col">
+      <div class="panel-h"><span>shared lattice &middot; &#10216;u&#178;&#10217; and L<sub>T</sub></span></div>
+      <div class="stage">
+        <canvas id="c" role="img" aria-label="A glowing herringbone lattice of organic molecules whose thermal vibration amplitude tracks the mean-square displacement. A cyan halo marks the transient localisation length of a charge carrier and shrinks as temperature rises or the lattice softens. A faint amber heat wavefront crosses with a speed set by the sound velocity."></canvas>
+        <div class="ovl" id="u2lab">&#10216;u&#178;&#10217; = <b>0.050</b> &#197;&#178;</div>
+        <div class="ovl" id="ltlab">L<sub>T</sub> = <b>2.21</b> nm</div>
+      </div>
+    </div>
+
+    <!-- RIGHT -->
+    <div class="col">
+      <div class="panel-h">band-like transport &mu;(T)</div>
+      <div class="stage plot">
+        <canvas id="p" role="img" aria-label="Log-log plot of charge mobility versus temperature showing a power-law decrease, with a dashed reference curve for the stiffest lattice setting lying above the solid current curve."></canvas>
+      </div>
+      <p class="pcap">Log&ndash;log. Solid: current C&#8324;&#8324;. Dashed: the stiffest setting, C&#8324;&#8324; = 5 GPa. Here <b>&mu; &prop; T<sup>&minus;<span id="alpha">1.6</span></sup></b> &mdash; the band-like signature, no activated hopping.</p>
+    </div>
+  </div>
+
+  <!-- CONTROLS -->
+  <div class="controls">
+    <div class="controls-lead">
+      <span class="lead-left"><span class="pip"></span>parameters &mdash; <b>drag to explore</b></span>
+      <span class="credit"><b>Deepak Venkateshvaran</b> &mdash; June 2026</span>
+    </div>
+    <div class="controls-grid">
+      <div class="ctl">
+        <label>Temperature <span class="val">T = <b id="tVal">300</b> K</span></label>
+        <input type="range" id="temp" min="50" max="400" step="5" value="300" aria-label="Temperature in kelvin">
+        <div class="ends"><span>50 K</span><span>400 K</span></div>
+      </div>
+      <div class="ctl">
+        <label>Shear modulus <span class="val">C&#8324;&#8324; = <b id="cVal">2.0</b> GPa</span></label>
+        <input type="range" id="c44" min="0.4" max="5" step="0.1" value="2" aria-label="Shear modulus C44 in gigapascal">
+        <div class="ends"><span>soft</span><span>stiff</span></div>
+      </div>
+      <div class="ctl">
+        <label>Transfer integral <span class="val">J = <b id="jVal">80</b> meV</span></label>
+        <input type="range" id="jint" min="30" max="120" step="5" value="80" aria-label="Transfer integral J in millielectronvolt">
+        <div class="ends"><span>30 meV</span><span>120 meV</span></div>
+      </div>
+    </div>
+  </div>
+
+<script>
+(function(){
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var C0=2,T0=300,hbar=0.6582,kBe=11604.5;
+  function chainOf(T,C44,J){
+    var omega=5.0*Math.sqrt(C44/C0);
+    var u2=0.05*(T/T0)/(C44/C0);
+    var sigma=111.8*Math.sqrt(u2);
+    var Delta=sigma/J;
+    var LT=3.5/(1+6*Delta*Delta);
+    var tau=hbar/omega;
+    var D=Math.pow(LT*1e-7,2)/(2*(tau*1e-12));
+    var mu=D/(T/kBe);
+    var kappa=0.5*(C44/C0)/(T/T0);
+    return {omega:omega,u2:u2,sigma:sigma,Delta:Delta,LT:LT,mu:mu,kappa:kappa};
+  }
+  function muOf(T,C44,J){return chainOf(T,C44,J).mu;}
+
+  var T=300,C44=2,J=80,chain=chainOf(T,C44,J);
+  var temp=document.getElementById('temp'),c44=document.getElementById('c44'),jint=document.getElementById('jint');
+  var ACC={temp:'#FF9A52',c44:'#9C8CFF',jint:'#54D6FF'};
+  function fill(el,key){var mn=+el.min,mx=+el.max,p=(+el.value-mn)/(mx-mn)*100;
+    el.style.background='linear-gradient(90deg,'+ACC[key]+' 0%,'+ACC[key]+' '+p+'%, #2A3552 '+p+'%, #2A3552 100%)';}
+  function fmt(x,d){return x.toFixed(d);}
+  function setT(id,v){document.getElementById(id).textContent=v;}
+  function update(){
+    T=+temp.value;C44=+c44.value;J=+jint.value;chain=chainOf(T,C44,J);
+    fill(temp,'temp');fill(c44,'c44');fill(jint,'jint');
+    setT('tVal',T);setT('cVal',fmt(C44,1));setT('jVal',J);
+    setT('vC44',fmt(C44,2));setT('vOmega',fmt(chain.omega,2));setT('vKappa',fmt(chain.kappa,2));
+    setT('vU2',fmt(chain.u2,3));setT('vSigma',fmt(chain.sigma,1));setT('vDelta',fmt(chain.Delta,2));
+    setT('vLT',fmt(chain.LT,2));setT('vMu',chain.mu>=10?fmt(chain.mu,1):fmt(chain.mu,2));
+    document.querySelector('#u2lab b').textContent=fmt(chain.u2,3);
+    document.querySelector('#ltlab b').textContent=fmt(chain.LT,2);
+    var Thi=T*1.04,Tlo=T*0.96;
+    var a=-(Math.log(muOf(Thi,C44,J))-Math.log(muOf(Tlo,C44,J)))/(Math.log(Thi)-Math.log(Tlo));
+    setT('alpha',a.toFixed(1));
+    drawPlot(); if(reduce) drawLattice(time);
+  }
+  temp.addEventListener('input',update);c44.addEventListener('input',update);jint.addEventListener('input',update);
+
+  /* lattice */
+  var cv=document.getElementById('c'),ctx=cv.getContext('2d');
+  var W=0,H=0,dpr=1,cols=14,rows=9,sp=0,ox=0,oy=0,nodes=[],centerIdx=0,a_nm=0.6;
+  function build(){
+    var r=cv.getBoundingClientRect();W=Math.max(40,r.width);H=Math.max(40,r.height);
+    dpr=Math.min(window.devicePixelRatio||1,2);cv.width=W*dpr;cv.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);
+    var m=Math.round(Math.min(W,H)*0.06),s0=46;
+    cols=Math.max(8,Math.min(24,Math.round((W-2*m)/s0)+1));
+    rows=Math.max(5,Math.min(18,Math.round((H-2*m)/s0)+1));
+    sp=Math.min((W-2*m)/(cols-1),(H-2*m)/(rows-1));
+    var gw=(cols-1)*sp+sp*0.5,gh=(rows-1)*sp;ox=(W-gw)/2;oy=(H-gh)/2;
+    nodes=[];
+    for(var rr=0;rr<rows;rr++)for(var c=0;c<cols;c++){var off=(rr%2)?sp*0.5:0;
+      nodes.push({rx:ox+c*sp+off,ry:oy+rr*sp,phx:c*1.7+rr*0.9,phy:c*0.6-rr*1.3,tilt:((c+rr)%2?1:-1)*0.38,x:0,y:0});}
+    centerIdx=Math.round((rows-1)/2)*cols+Math.round((cols-1)/2);
+  }
+  var time=0;
+  function drawLattice(t){
+    var bg=ctx.createRadialGradient(W*.5,H*.42,0,W*.5,H*.42,Math.max(W,H)*.75);
+    bg.addColorStop(0,'#0E1426');bg.addColorStop(1,'#070A14');ctx.fillStyle=bg;ctx.fillRect(0,0,W,H);
+    var amp=sp*0.9*Math.sqrt(chain.u2),w1=0.0011,w2=0.0014;
+    for(var i=0;i<nodes.length;i++){var n=nodes[i];
+      n.x=n.rx+amp*(Math.sin(t*w1+n.phx)+0.5*Math.sin(t*w2*1.7+n.phy));
+      n.y=n.ry+amp*(Math.cos(t*w2+n.phy)+0.5*Math.cos(t*w1*1.9+n.phx));}
+    ctx.lineWidth=1;
+    for(var rr=0;rr<rows;rr++)for(var c=0;c<cols;c++){var idx=rr*cols+c,a=nodes[idx];
+      if(c<cols-1)spring(a,nodes[idx+1]);if(rr<rows-1)spring(a,nodes[idx+cols]);}
+    function spring(a,b){var dx=b.x-a.x,dy=b.y-a.y,len=Math.hypot(dx,dy),s=Math.min(1,Math.abs(len-sp)/(sp*0.5));
+      ctx.strokeStyle='rgba('+(120+s*90)+','+(140+s*30)+','+(185-s*40)+','+(0.07+s*0.10)+')';
+      ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}
+    ctx.globalCompositeOperation='lighter';
+    var L=sp*0.55,lw=sp*0.16;
+    for(var i=0;i<nodes.length;i++){var n=nodes[i];var ang=Math.PI/2+n.tilt,hx=Math.cos(ang)*L*0.5,hy=Math.sin(ang)*L*0.5;
+      ctx.lineCap='round';
+      ctx.strokeStyle='rgba(150,180,230,0.10)';ctx.lineWidth=lw*2.2;ctx.beginPath();ctx.moveTo(n.x-hx,n.y-hy);ctx.lineTo(n.x+hx,n.y+hy);ctx.stroke();
+      ctx.strokeStyle='rgba(228,236,250,0.82)';ctx.lineWidth=lw;ctx.beginPath();ctx.moveTo(n.x-hx,n.y-hy);ctx.lineTo(n.x+hx,n.y+hy);ctx.stroke();}
+    var cn=nodes[centerIdx],Lpx=(chain.LT/a_nm)*sp;
+    var cg=ctx.createRadialGradient(cn.x,cn.y,0,cn.x,cn.y,Math.max(Lpx,2));
+    cg.addColorStop(0,'rgba(84,214,255,0.55)');cg.addColorStop(0.5,'rgba(84,214,255,0.20)');cg.addColorStop(1,'rgba(84,214,255,0)');
+    ctx.fillStyle=cg;ctx.beginPath();ctx.arc(cn.x,cn.y,Math.max(Lpx,2),0,7);ctx.fill();
+    var band=sp*3.2,speed=0.05+Math.sqrt(C44/C0)*0.07,span=W+band*2,hx2=((t*speed)%span)-band;
+    var hg=ctx.createLinearGradient(hx2-band,0,hx2+band,0);
+    hg.addColorStop(0,'rgba(255,154,82,0)');hg.addColorStop(0.5,'rgba(255,154,82,0.20)');hg.addColorStop(1,'rgba(255,154,82,0)');
+    ctx.fillStyle=hg;ctx.fillRect(hx2-band,0,band*2,H);
+    ctx.globalCompositeOperation='source-over';
+    var barpx=(1/a_nm)*sp,bx=W-26-barpx,by=H-24;
+    ctx.strokeStyle='rgba(84,214,255,0.8)';ctx.lineWidth=2;ctx.lineCap='butt';
+    ctx.beginPath();ctx.moveTo(bx,by);ctx.lineTo(bx+barpx,by);
+    ctx.moveTo(bx,by-4);ctx.lineTo(bx,by+4);ctx.moveTo(bx+barpx,by-4);ctx.lineTo(bx+barpx,by+4);ctx.stroke();
+    ctx.fillStyle='rgba(138,147,173,0.95)';ctx.font='12px "IBM Plex Mono", monospace';ctx.textAlign='center';
+    ctx.fillText('1 nm',bx+barpx/2,by-10);
+  }
+
+  /* plot */
+  var pc=document.getElementById('p'),pg=pc.getContext('2d');
+  var PW=0,PH=0,padL=56,padR=14,padT=14,padB=34,plotW=0,plotH=0;
+  var Tmn=50,Tmx=400,Mmn=0.01,Mmx=300;
+  function pbuild(){var r=pc.getBoundingClientRect();PW=Math.max(40,r.width);PH=Math.max(40,r.height);
+    pc.width=PW*dpr;pc.height=PH*dpr;pg.setTransform(dpr,0,0,dpr,0,0);plotW=PW-padL-padR;plotH=PH-padT-padB;}
+  function PX(t){return padL+(Math.log(t)-Math.log(Tmn))/(Math.log(Tmx)-Math.log(Tmn))*plotW;}
+  function PY(m){m=Math.max(Mmn,Math.min(Mmx,m));return padT+(1-(Math.log(m)-Math.log(Mmn))/(Math.log(Mmx)-Math.log(Mmn)))*plotH;}
+  function drawPlot(){
+    pg.clearRect(0,0,PW,PH);pg.fillStyle='#0C1120';pg.fillRect(0,0,PW,PH);
+    pg.font='11px "IBM Plex Mono", monospace';
+    var decs=[0.01,0.1,1,10,100];pg.textAlign='right';pg.textBaseline='middle';
+    for(var i=0;i<decs.length;i++){var y=PY(decs[i]);
+      pg.strokeStyle='rgba(30,39,64,0.9)';pg.lineWidth=1;pg.beginPath();pg.moveTo(padL,y);pg.lineTo(PW-padR,y);pg.stroke();
+      pg.fillStyle='#69728C';pg.fillText(''+decs[i],padL-9,y);}
+    var xt=[50,100,200,400];pg.textAlign='center';pg.textBaseline='top';
+    for(var i=0;i<xt.length;i++){var x=PX(xt[i]);
+      pg.strokeStyle='rgba(30,39,64,0.6)';pg.beginPath();pg.moveTo(x,padT);pg.lineTo(x,PH-padB);pg.stroke();
+      pg.fillStyle='#69728C';pg.fillText(''+xt[i],x,PH-padB+8);}
+    pg.font='12px "IBM Plex Mono", monospace';pg.fillStyle='#8A93AD';
+    pg.textAlign='center';pg.textBaseline='top';pg.fillText('T (K)',padL+plotW/2,PH-15);
+    pg.save();pg.translate(14,padT+plotH/2);pg.rotate(-Math.PI/2);pg.textBaseline='middle';
+    pg.fillText('\u03BC  (cm\u00B2 V\u207B\u00B9 s\u207B\u00B9)',0,0);pg.restore();
+    var Cg=5;
+    pg.strokeStyle='rgba(84,214,255,0.35)';pg.setLineDash([5,5]);pg.lineWidth=1.5;pg.beginPath();curve(Cg);pg.stroke();pg.setLineDash([]);
+    pg.strokeStyle='rgba(84,214,255,0.95)';pg.lineWidth=2.2;pg.beginPath();curve(C44);pg.stroke();
+    function curve(cc){var first=true;for(var t=Tmn;t<=Tmx;t+=3){var x=PX(t),y=PY(muOf(t,cc,J));if(first){pg.moveTo(x,y);first=false;}else pg.lineTo(x,y);}}
+    var ox2=PX(T),oy2=PY(chain.mu);
+    pg.fillStyle='#0C1120';pg.strokeStyle='rgba(84,214,255,1)';pg.lineWidth=2.5;
+    pg.beginPath();pg.arc(ox2,oy2,6,0,7);pg.fill();pg.stroke();
+  }
+
+  function loop(now){if(!reduce)time=now;drawLattice(time);requestAnimationFrame(loop);}
+  function sizeAll(){build();pbuild();drawPlot();if(reduce)drawLattice(time);}
+  if(window.ResizeObserver){
+    new ResizeObserver(function(){build();if(reduce)drawLattice(time);}).observe(cv);
+    new ResizeObserver(function(){pbuild();drawPlot();}).observe(pc);
+  }
+  window.addEventListener('resize',sizeAll);
+  requestAnimationFrame(function(){sizeAll();update();requestAnimationFrame(loop);});
+})();
+</script>
+</body>
+</html>
