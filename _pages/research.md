@@ -19,7 +19,7 @@ Macroscopic stiffness is the long-wavelength, zero-frequency limit of the acoust
 
 At a fundamental level, we are interested in how carrier mobility, electrical conductivity, the Seebeck coefficient, and elasticity interlock within a single multifunctional material — treating mechanics not as a separate engineering concern but as one face of the same underlying physics that sets electronic and thermal transport. One framework we have proposed is summarised in the schematic below.  
 
-<img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-link.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
+<img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">
 
 **Collaborations**  
 I run the core program with Dr Ki-Hwan Hwang and Mr Mateo Cervantes in Cambridge, and with [Prof Per Claesson](https://www.kth.se/profile/percl) in Stockholm. Strong industry ties come through our partnership with [Park Systems](https://www.parksystems.com/). For the theory and calculation of molecular mechanics, I work with [Prof Erin Johnson](https://www.ch.cam.ac.uk/news/royal-society-wolfson-visiting-fellow-erin-johnson) and [Prof Yoann Olivier](https://www.unamur.be/en/sciences/physics/research/lps/yoann-olivier).  
