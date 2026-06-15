@@ -12,13 +12,18 @@ The following is a list of invited and plenary talks delivered since January 202
 
 **Prague, Czech Republic, September 2026** <br /> Keynote Lecture at the Nano Scientific Forum Europe (NSFE) <br /> _Feeling the Lattice: AFM as a Real-Space Probe of Charge Transport in Organic Semiconductors_ <br /> Invitation from Park Systems  
 
-**Chennai, India, April 2026** <br /> Invited Lecture at IIT Madras <br /> _Molecular Nanomechanics_ <br /> Invitation from Prof Prem Bisht   
+**Mainz, Germany, July 2026** <br /> Lecture at the Max Planck Institute for Polymer Research <br /> _A Nanomechanical View of Charge Transport 
+in Organic Semiconductors_ <br /> Invitation from Dr Ulrike Kraft  
+
+**Brussels, Belgium, July 2026** <br /> Seminar at the JSPS-FNRS Collaborative Meeting <br /> _Measuring acoustic phonon response in the limit of long wavelength and low frequency_ <br /> Invitation from Dr Guillaume Schweicher  
+
+**Chennai, India, April 2026** <br /> Lecture at IIT Madras <br /> _Molecular Nanomechanics_ <br /> Invitation from Prof Prem Bisht   
 
 **Brussels, Belgium, November 2025** <br /> Seminar at the JSPS-FNRS-FWA Collaborative Meeting <br /> _Deformation potentials and nanoscale elastic measurements in molecular crystals_ <br /> Invitation from Dr Guillaume Schweicher  
 
 **Cambridge, United Kingdom, October 2025** <br /> Seminar to the 2025 cohort of Chevening Gurukul Fellows <br /> _Advanced Materials Innovation and the UK-India Technology Security Initiative_ <br /> Invitation from program directors at Oxford University
 
-**Bangalore, India, September 2025** <br /> Invited Lecture at JNCASR <br /> _In organic semiconductors, is charge transport 
+**Bangalore, India, September 2025** <br /> Lecture at JNCASR <br /> _In organic semiconductors, is charge transport 
 intrinsically limited by stiffness?_ <br /> Invitation from Prof KS Narayan  
 
 **Kyoto, Japan, March 2025** <br /> Invited Lecture at the International Conference on Condensed Conjugation <br /> _Nanomechanics of 𝜋-conjugated molecular semiconductors_ <br /> Invitation from Prof Takashi Kubo and Prof Taishi Takenobu
@@ -47,7 +52,7 @@ intrinsically limited by stiffness?_ <br /> Invitation from Prof KS Narayan
 
 **Cambridge, United Kingdom, November 2022** <br /> Invited Seminar at the Department of Chemical Engineering and Biotechnology <br /> Invitation from Prof Lijljana Fruk
 
-**Online, October 2022** <br /> Plenary Talk at the [Nano Scientific Forum Europe (NSFE)](https://event.nanoscientific.org/eu/2022) <br /> Invitation from Dr Vladimir Korolkov
+**Online, October 2022** <br /> Plenary Talk at the Nano Scientific Forum Europe (NSFE) <br /> Invitation from Dr Vladimir Korolkov
 
 **Stockholm, Sweden, September 2022** <br /> Graduate Seminar at the Division for Surface and Corrosion Science, KTH Stockholm <br /> Invitation from Prof Per Claesson
 
