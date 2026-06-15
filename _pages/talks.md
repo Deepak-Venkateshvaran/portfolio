@@ -8,7 +8,7 @@ author_profile: true
 
 <img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/1P9A4270.jpg" width="250" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
-The following is a list of invited, keynote, and plenary talks delivered since January 2021, the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on organic semiconductors, thermoelectrics, nanomechanics, and more recently, on Science Policy in Government.  
+The following is a list of invited, keynote, and plenary talks delivered since the beginning my Royal Society University Research Fellowship in January 2021. These talks focused on organic semiconductors (transport, thermoelectrics & nanomechanics) and more recently, on Science Policy in Government.  
 
 **Prague, Czech Republic, September 2026** <br /> Keynote Lecture at the Nano Scientific Forum Europe (NSFE) <br /> _Feeling the Lattice: AFM as a Real-Space Probe of Charge Transport in Organic Semiconductors_ <br /> Invitation from Park Systems  
 
