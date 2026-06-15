@@ -10,6 +10,8 @@ author_profile: true
 
 The following is a list of invited and plenary talks delivered since January 2021, i.e., since the beginning of my ongoing Royal Society University Research Fellowship. These talks focused on organic semiconductors, thermoelectrics, nanomechanics, and more recently, on Science Policy in Government.  
 
+**Prague, Czech Republic, September 2026** <br /> Keynote Lecture at the Nano Scientific Forum Europe (NSFE) <br /> _Feeling the Lattice: AFM as a Real-Space Probe of Charge Transport in Organic Semiconductors_ <br /> Invitation from Park Systems  
+
 **Chennai, India, April 2026** <br /> Invited Lecture at IIT Madras <br /> _Molecular Nanomechanics_ <br /> Invitation from Prof Prem Bisht   
 
 **Brussels, Belgium, November 2025** <br /> Seminar at the JSPS-FNRS-FWA Collaborative Meeting <br /> _Deformation potentials and nanoscale elastic measurements in molecular crystals_ <br /> Invitation from Dr Guillaume Schweicher  
@@ -33,7 +35,7 @@ intrinsically limited by stiffness?_ <br /> Invitation from Prof KS Narayan
 
 **Boston, USA, December 2023** <br /> Invited Seminar at the [MRS Fall Meeting](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2023-mrs-fall-meeting/2023-mrs-fall-meeting-3963265) <br /> Invitation from Prof Dhandapani Venkataraman
 
-**Barcelona, Spain, September 2023** <br /> Plenary Talk at the [Nano Scientific Forum Europe (NSFE)](https://event.nanoscientific.org/eu/2023) <br /> Invitation from Dr Vladimir Korolkov
+**Barcelona, Spain, September 2023** <br /> Plenary Talk at the Nano Scientific Forum Europe (NSFE) <br /> Invitation from Dr Vladimir Korolkov
 
 **San Diego, USA, August 2023** <br /> Invited Seminar at the [SPIE Meeting](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0/PC126620/Higher-eigen-mode-imaging-and-nanomechanics-of-flexible-electronic-materials/10.1117/12.2677326.short) <br /> Invitation from Prof Oana Jurchescu
 
