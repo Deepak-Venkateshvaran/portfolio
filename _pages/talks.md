@@ -12,7 +12,7 @@ The following is an account of invited, keynote, and plenary talks since beginni
 
 **Prague, Czech Republic, September 2026** <br /> Keynote Lecture at the Nano Scientific Forum Europe (NSFE) <br /> _Feeling the Lattice: AFM as a Real-Space Probe of Charge Transport in Organic Semiconductors_ <br /> Invitation from Park Systems  
 
-**Mainz, Germany, July 2026** <br /> Lecture at the Max Planck Institute for Polymer Research <br /> _A Nanomechanical View of Charge Transport 
+**Mainz, Germany, July 2026** <br /> Seminar at the Max Planck Institute for Polymer Research <br /> _A Nanomechanical View of Charge Transport 
 in Organic Semiconductors_ <br /> Invitation from Dr Ulrike Kraft  
 
 **Brussels, Belgium, July 2026** <br /> Seminar at the JSPS-FNRS Collaborative Meeting <br /> _Measuring acoustic phonon response in the limit of long wavelength and low frequency_ <br /> Invitation from Dr Guillaume Schweicher  
