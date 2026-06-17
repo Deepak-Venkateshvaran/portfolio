@@ -11,7 +11,7 @@ author_profile: true
 
 I have played the Indian *tabla* for several decades, and routinely collaborate with well known musicians like [Catherine Groom](https://www.mus.cam.ac.uk/directory/catherine-groom), [Hibiki Ichikawa](https://hibikishamisen.com/), [Hidé Takemoto](https://www.hideguitar.com/) and [James Cozens](https://www.jamescozens.co.uk/).  
 
-Here is a June 2026 collaboration with James Cozens called [Monsoon Reverie](https://www.youtube.com/watch?v=FevXagXsoC0).
+Here is a June 2026 collaboration with James Cozens called <a href="https://www.youtube.com/watch?v=FevXagXsoC0" target="_blank">Monsoon Reverie</a>.
 
 
 ## Tabla and Physics
