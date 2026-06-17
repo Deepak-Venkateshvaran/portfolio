@@ -10,10 +10,9 @@ author_profile: true
 
 The following is an account of invited, keynote, and plenary talks since beginning my Royal Society University Research Fellowship in January 2021. These talks focused on soft semiconductors (transport, thermoelectrics, nanomechanics) and occasionally, on Science Policy in Government.  
 
-**Prague, Czech Republic, September 2026** <br /> Keynote Lecture at the Nano Scientific Forum Europe (NSFE) <br /> _Feeling the Lattice: AFM as a Real-Space Probe of Charge Transport in Organic Semiconductors_ <br /> Invitation from Park Systems  
+**Prague, Czech Republic, September 2026** <br /> Keynote Lecture at the Nano Scientific Forum Europe (NSFE) <br /> _Feeling the Lattice_ <br /> Invitation from Park Systems  
 
-**Mainz, Germany, July 2026** <br /> Seminar at the Max Planck Institute for Polymer Research <br /> _A Nanomechanical View of Charge Transport 
-in Organic Semiconductors_ <br /> Invitation from Dr Ulrike Kraft  
+**Mainz, Germany, July 2026** <br /> Seminar at the Max Planck Institute for Polymer Research <br /> _A Nanomechanical View of Charge Transport in Organic Semiconductors_ <br /> Invitation from Dr Ulrike Kraft  
 
 **Brussels, Belgium, July 2026** <br /> Seminar at the Workshop on Organic Semiconductors for the Next Era <br /> _Measuring acoustic phonon response in the limit of long wavelength and low frequency_ <br /> Invitation from Dr Guillaume Schweicher  
 
