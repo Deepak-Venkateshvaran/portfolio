@@ -14,7 +14,7 @@ The following is an account of invited, keynote, and plenary talks since beginni
 
 **Mainz, Germany, July 2026** <br /> Seminar at the Max Planck Institute for Polymer Research <br /> _A Nanomechanical View of Charge Transport in Organic Semiconductors_ <br /> Invitation from Dr Ulrike Kraft  
 
-**Brussels, Belgium, July 2026** <br /> Seminar at the Workshop on Organic Semiconductors for the Next Era <br /> _Nanoelectrical and Nanomechanical Measurements in Next Gen High Mobility Organic Crystals_ <br /> Invitation from Dr Guillaume Schweicher  
+**Brussels, Belgium, July 2026** <br /> Seminar at the International Workshop on Organic Semiconductors for the Next Era <br /> _Nanoelectrical and Nanomechanical Measurements in Next Gen High Mobility Organic Crystals_ <br /> Invitation from Dr Guillaume Schweicher  
 
 **Chennai, India, April 2026** <br /> Lecture at IIT Madras <br /> _Molecular Nanomechanics_ <br /> Invitation from Prof Prem Bisht   
 
