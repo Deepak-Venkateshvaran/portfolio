@@ -31,12 +31,9 @@ The mechanistic flow that connects the shear modulus with its charge carrier mob
 **Collaborations**  
 I run the core program with Dr Ki-Hwan Hwang and Mr Mateo Cervantes in Cambridge, and with [Prof Per Claesson](https://www.kth.se/profile/percl) in Stockholm. Strong industry ties come through our partnership with [Park Systems](https://www.parksystems.com/). For the theory and calculation of molecular mechanics, I work with [Prof Erin Johnson](https://www.ch.cam.ac.uk/news/royal-society-wolfson-visiting-fellow-erin-johnson) and [Prof Yoann Olivier](https://www.unamur.be/en/sciences/physics/research/lps/yoann-olivier).  
 
-Beyond electronically active materials, we work closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to extend our methods to biological matter.  
+Beyond electronically active materials, we work closely with [Prof Ljiljana Fruk](https://www.fruk-lab.com/) and [Dr Leszek J. Spalek](https://uk.linkedin.com/in/leszekspalek) to extend our methods to biological and biocompatible matter.  
 
 Since 2024, I have jointly run a program on molecular thermoelectrics with [Dr Guillaume Schweicher](https://chimpoly.ulb.be/guillaume-schweicher/) at ULB in Belgium and [Prof Kazuo Takimiya](https://cems.riken.jp/en/laboratory/emfrg) at RIKEN in Japan, seed-funded by the Wiener Anspach Foundation.  
-
-**Blue-skies work**  
-A small part of the program is exploratory. One example treats nanoscale topography topologically, applying Topological Data Analysis (TDA) and Geometric Data Analysis (GDA) to atomic force microscopy images. This work, funded in part by UNAM in Mexico, is conducted together with [Prof Pablo Padilla](https://mym.iimas.unam.mx/pablo/index.html).
 
 **Funding**  
 The program is supported by multiple research grants from the Royal Society, for which I am deeply grateful.
