@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/Deepak-NSFE2023.png" width="250" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
+<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/Deepak-NSFE2023.png" width="270" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
 
 The following is an account of invited seminars, keynote lectures, and plenary talks since beginning my Royal Society University Research Fellowship in January 2021. These talks focused on soft semiconductors (transport, thermoelectrics, nanomechanics) and occasionally, on Science Policy in Government.  
 
