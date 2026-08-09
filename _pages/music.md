@@ -5,9 +5,11 @@ permalink: /music/
 author_profile: true
 ---
 
-
+<!-- 
 <img src="https://deepak-venkateshvaran.github.io/portfolio/images/deepak-groom.png" width="324" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/1-Tabla-Talk-28-Sept-2024.jpg" width="310" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;"> <img src="https://deepak-venkateshvaran.github.io/portfolio/images/2-Tabla-Talk-28-Sept-2024.jpg" width="310" style="padding-right: 2px; padding-left: 2px; padding-bottom: 2px; padding-top: 2px;">  
+-->
 
+<img src="https://deepak-venkateshvaran.github.io/portfolio/images/deepak-music-activities.png" width="1000" style="padding-right: 1px; padding-left: 1px; padding-bottom: 1px; padding-top: 1px;">
 
 I have played the Indian *tabla* for several decades, and routinely collaborate with well known musicians like [Catherine Groom](https://www.mus.cam.ac.uk/directory/catherine-groom), [Hibiki Ichikawa](https://hibikishamisen.com/), [Hidé Takemoto](https://www.hideguitar.com/) and [James Cozens](https://www.jamescozens.co.uk/).  
 
