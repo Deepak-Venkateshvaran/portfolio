@@ -57,7 +57,7 @@ Selected for the journal's Editors' Highlights, a rolling showcase of its 50 bes
 *Visualisation of nanoscale mechanical tortuosity in semiconducting polymers across thermal phase transitions*  
 
 -->
-<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/DIST-AM-Team-2024.png" width="300" style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px; padding-top: 10px;">  
+<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/DIST-AM-Team-2024.png" width="340" style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px; padding-top: 10px;">  
 
 **Reports on Science Policy**
 
