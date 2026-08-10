@@ -59,7 +59,9 @@ Selected for the journal's Editors' Highlights, a rolling showcase of its 50 bes
 -->
 
 **Reports on Science Policy**
-
+<!--
+<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/Deepak-NSFE2023.png" width="270" style="padding-right: 30px; padding-left: 20px; padding-bottom: 20px; padding-top: 10px;">
+-->
 * Deepak Venkateshvaran, Stephanie Kitchen, Michael Watson, **DSIT white paper** (2025), *Two decades of graphene* Commissioned by Caroline France, Head of Technology Growth, UK Government
 
 * Deepak Venkateshvaran, **DSIT white paper** (2024), *Battery-free Energy - Harvesting clean energy from ambient sources* Commissioned by Liam Izod, Head of Technology Growth, UK Government  
