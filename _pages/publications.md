@@ -58,7 +58,7 @@ Selected for the journal's Editors' Highlights, a rolling showcase of its 50 bes
 
 -->
 
-<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/DIST-AM-Team-2024.png" width="360" style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px; padding-top: 10px;">
+<img align = "right" src="https://deepak-venkateshvaran.github.io/portfolio/images/DIST-AM-Team-2024.png" width="360" style="padding-right: 10px; padding-left: 10px; padding-bottom: 10px; padding-top: 30px;">
 
 **Reports on Science Policy**
 
