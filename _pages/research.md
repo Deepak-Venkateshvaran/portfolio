@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="https://deepak-venkateshvaran.github.io/portfolio/images/Lab-Life.png" width="1000" style="padding-right: 1px; padding-left: 1px; padding-bottom: 1px; padding-top: 1px;">
+<img src="https://deepak-venkateshvaran.github.io/images/Lab-Life.png" width="1000" style="padding-right: 1px; padding-left: 1px; padding-bottom: 1px; padding-top: 1px;">
 
 **We measure the mechanical properties of molecular semiconductors on the nanoscale.**  
 
@@ -19,11 +19,11 @@ Macroscopic stiffness is the long-wavelength, zero-frequency limit of the acoust
 
 At a fundamental level, we are interested in how carrier mobility, electrical conductivity, the Seebeck coefficient, and elasticity interlock within a single multifunctional material — treating mechanics not as a separate engineering concern but as one face of the same underlying physics that sets electronic and thermal transport. One framework we have proposed is summarised in the schematic below.  
 
-<img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">  
+<img align = "middle" src="https://deepak-venkateshvaran.github.io/images/ETN-connection.png" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;">  
 
 The mechanistic flow that connects the shear modulus with its charge carrier mobility arises when combining the shear elastic constant c<sub>44</sub> with transient localisation theory. Click the interactive illustration below to see how such a mechanism plays out. The sliders can be used to tune the shear modulus of an organic molecular semiconductor and look at its impact on the mobility.  This interactive plot is phenomenologically correct, but does not include quantum corrections to displacements at very low temperatures.  
 
-<a href="https://deepak-venkateshvaran.github.io/portfolio/files/one-lattice-three-faces.html" target="_blank" rel="noopener">
+<a href="https://deepak-venkateshvaran.github.io/files/one-lattice-three-faces.html" target="_blank" rel="noopener">
   <img align = "middle" src="https://deepak-venkateshvaran.github.io/portfolio/files/one-lattice-three-faces.gif" width="1000" style="padding-right: 30px; padding-left: 30px; padding-bottom: 20px; padding-top: 20px;" alt="One phonon bath, three observables — interactive figure">
 </a>  
 
